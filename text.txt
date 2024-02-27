@@ -1,0 +1,2039 @@
+bash run_seg_mesh_variable_0.sh IMG_9681.MOV-kn91yr-1699524234413 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9681.MOV-kn91yr-1699524234413"
+ bash run_seg_mesh_variable_0.sh IMG_2070.MOV-tm7u60-1699524557200 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_2070.MOV-tm7u60-1699524557200"
+ bash run_seg_mesh_variable_0.sh IMG_9684.MOV-oukei4-1699525468600 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9684.MOV-oukei4-1699525468600"
+ bash run_seg_mesh_variable_0.sh IMG_2073.MOV-bmo1yl-1699525630195 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_2073.MOV-bmo1yl-1699525630195"
+bash run_seg_mesh_variable_0.sh IMG_3948.MOV-8u355u-1699527248864 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3948.MOV-8u355u-1699527248864"
+bash run_seg_mesh_variable_0.sh IMG_3948.MOV-8u355u-1699527248864 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3948.MOV-8u355u-1699527248864"
+bash run_seg_mesh_variable_0.sh IMG_2078.MOV-v89wp2-1699527910288 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_2078.MOV-v89wp2-1699527910288"
+bash run_seg_mesh_variable_0.sh IMG_3949.MOV-s7dbqg-1699528143457 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3949.MOV-s7dbqg-1699528143457"
+bash run_seg_mesh_variable_0.sh IMG_9691.MOV-clz1ck-1699529438832 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9691.MOV-clz1ck-1699529438832"
+bash run_seg_mesh_variable_0.sh IMG_9691.MOV-clz1ck-1699529438832 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9691.MOV-clz1ck-1699529438832"
+ bash run_seg_mesh_variable_0.sh IMG_2097.mov-t1ncxq-1699712702495 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_2097.mov-t1ncxq-1699712702495"
+ defaults write com.apple.finder AppleShowAllFiles TRUE\
+\
+killall Finder 
+cd /Users/mukulingle/Downloads/estilo/4k_30/estilo_4k_30/input 
+rm .DS_Store
+htop
+rm .DS_Store
+htop
+conda activate metashop
+cd Public/tests
+ bash run_seg_mesh_variable_0.sh IMG_9741.mov-cqwott-1700046122023 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9741.mov-cqwott-1700046122023?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1700049723&Signature=D3pgoETwN4qNNVh4fqnBKTyQnK17cv1lV%2FrmT%2B98TcH04RUDBKZqExwWwvjTRHjxzvbMyo1m8y6%2BkDhmGwsIpdolWCLIHLi160zsq2Q3ceJoIP9zvCFXrfi%2FJc1WhoocZUb4WH9%2FFpGfz%2FQeDwKeSARAIjps5OIemEyDXn6NdT3clWUMa8oHnnkB5g21CtaVAtK5dDbMz3XcDTHxGZji%2BEhg%2BOr%2BjteQjWx3%2F5VEu6XatejGvWvN93T1Y7bk7qPYumA0CyfB7EwcwsDsM9uLHlM35qHDEDYSr3dd1sGOjGI4HRxHn%2BhqnxQl2wQ6R2wPPvrOK02pfHAwCarm7%2FgRCQ%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_9724.mov-b9cw3n-1700046401614 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9724.mov-b9cw3n-1700046401614?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1700050003&Signature=SQhvGBwq9cnTY2CTwVucGRqJaeEPDFnmvYmx6mf2%2FFbV7ZJLddUZSjjexpoznkXjagikMG%2F8UyAwgKKnDaXUwOfdnpIAKKFE1dUspdEOPxq0npqeB1PeHX8eyWfWsXil0gV1FhCoVutw5qNgUWYr1heqrs0uGcmtmR3uPkpWKX7YJtvxKuEBtotfo7ntiAuKWr%2FQhAsbI2%2FQvdxKRVllNOaCMsaXeksaI9h3YVKvfH8DfMQGfWuYxrgYlR5NgHIgeSq94Ivq98MW1S6y8cJdAi2AxgfzRMYX9ZE1w%2BTrSl74BTJKkFaFpwmQ5WAlMoI0dhsLIUzZQRdpS4m1vU1CKA%3D%3D"
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2198/IMG_2198.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2198/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2198/IMG_2198.usdz
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2194/IMG_2194.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2194/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2194/IMG_2194.usdz
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2199/IMG_2199.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2199/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2199/IMG_2199.usdz
+conda activate metashop
+git pull
+docker buildx build --platform linux/amd64 -t  ms-website:v35 --no-cache .
+docker image tag ms-website:v35 mukul9/ms-website:v35\
+
+docker push mukul9/ms-website:v35
+git commit -m "Updated API Access Form to Hubspot"
+git commit -a -m "Updated API Access Form to Hubspot"
+git push
+git commit -a -m "Updated API Access Form to Hubspot. Updated link."
+git push
+docker buildx build --platform linux/amd64 -t  ms-website:v36 --no-cache .
+docker image tag ms-website:v36 mukul9/ms-website:v36\
+
+docker push mukul9/ms-website:v36
+cd Documents/MetaShop/deep_learning
+git clone https://github.com/Vandermode/ERRNet.git
+cd ERRNet
+conda activate metashop
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+conda install tensorboardX
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+pip install dominate
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_0046392.pt --hyper
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt
+python test_errnet.py --name errnet -r --icnn_path checkpoints/errnet/errnet_060_00463920.pt --hyper
+cd ../
+ls
+cd reflection_removal
+ls
+python chahe.py
+scp /Users/mukulingle/Downloads/mukul_i20_no_windows/input.zip mukul@35.238.253.94:/home/mukul/gaussian-splatting/
+scp -r mukul@35.238.253.94:/home/mukul/gaussian-splatting/output/59f55743-8/point_cloud /Users/mukulingle/Downloads/mukul_i20_no_windows/
+scp /Users/mukulingle/Downloads/i2i.zip mukul@35.238.253.94:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/i2i.zip mukul@34.42.125.158:/home/mukul/gaussian-splatting/
+scp -r mukul@35.238.253.94:/home/mukul/gaussian-splatting/output/88b6dc05-3/point_cloud/iteration_7000 /Users/mukulingle/Downloads/i2i/
+scp -r mukul@34.42.125.158:/home/mukul/gaussian-splatting/output/88b6dc05-3/point_cloud/iteration_7000 /Users/mukulingle/Downloads/i2i/
+cd ../
+git clone
+git clone https://github.com/quadjr/aframe-gaussian-splatting.git
+cd ~/Public/tests
+python extract_frames.py /Users/mukulingle/Downloads/mukul_i20/IMG_0516.MOV 
+secure.
+ssh mukul@34.42.125.158
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/mukul_i20_no_windows/IMG_0517.MOV 
+ssh mukul@35.238.253.94
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/IMG_2160/IMG_2160.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/IMG_2160/images /Users/mukulingle/Downloads/TurntableShoes/IMG_2160/IMG_2160.usdz
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/IMG_2161/IMG_2161.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/IMG_2160/images /Users/mukulingle/Downloads/TurntableShoes/IMG_2161/IMG_2161.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/IMG_2161/images /Users/mukulingle/Downloads/TurntableShoes/IMG_2161/IMG_2161.usdz
+ssh mukul@34.42.125.158
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2188/IMG_2188.MOV  
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2188/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2188/IMG_2188.usdz
+bash run_seg_mesh_variable_0.sh IMG_9717.mov-wad6p3-1700044532112 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9717.mov-wad6p3-1700044532112?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1700048134&Signature=sdT3B4UtvftHIAJTwIzadPe0%2FiUReN6h9WriPEwdxJK%2Bw0t5fmGmFAgoIoiRPrN2NQQkVYprMVnREPaom5NvqSGe37AlFmq7Y%2BLBkfqRhyjK0Ksn69yau4CFFT5ukyLn%2BWQhRfB8oiiHyCV%2FTQdhLoCXHORSo1fbxmxFKgyJ2t8udchFoM2NUS6qNHUIOe6PTA6P3ZwvMwNflXAoK1Ay1UQ0V1s6ddxKyUgJkssUN4t6mNaBGCeNF%2FdWpxtKXQiRpsGuAhH7ta%2BHCGxiAfLGaH2jWIg6EKSxdDWDYlMDgGA3dYKzKHGDPg7Oq7gJnZ4ulDMEkHwivJ4NJlEIi0zOAA%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_9717.mov-wad6p3-1700044532112 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9717.mov-wad6p3-1700044532112"
+bash run_seg_mesh_variable_0.sh IMG_9740.mov-nm7n13-1700046257997 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9740.mov-nm7n13-1700046257997?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1700049860&Signature=U9Y4CqEU454TR16%2BVV3OJiyIeDIHNXyNOiGXfZD088EQeVgyfp6Bqu7YAPv2XH5W8H%2BNzIP2BoACkKyjKewWZkvE22IhG5jOaJ2RUqE%2FkYsk52v2KjNTrVNjRVMzyJ7JusIePrH%2BYEEobmoEnltjfuhP83c6Yd%2FObXO6cHlDLkDko%2B0bbyAqfb36MhBKARqOxymOPloP5VvuM0NjH4Jd1fDH3N%2FFhZv%2B8rPGVpS9ijGhxfzHl8eGhX1T%2F1EfhIZjybybC1o1CF0psILdBLLtWwMFqsq4gu6%2B5pfolX04n05xNXzz80Al7kh9SbXFEGWCUTc%2FK42UtriIo1FIfYWayw%3D%3D"
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2190/IMG_2190.MOV   
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2190/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2190/IMG_2190.usdz
+ssh mukul@34.42.125.158
+scp /Users/mukulingle/Downloads/mukul_i20/input.zip mukul@34.42.125.158:/home/mukul/gaussian-splatting/mukul_i20/
+scp -r mukul@34.42.125.158:/home/mukul/gaussian-splatting/output/9e5619b6-0/point_cloud /Users/mukulingle/Downloads/mukul_i20/
+cd ~/Documents/MetaShop/MS
+cd ~/Documents/MetaShop
+cd ~/Documents/MetaShop/metashop-web-app
+python pdf_compressor.py -c 2 /Users/mukulingle/Downloads/MetaShop\ X\ Amazon\ 2.pdf  -o Amazon.pdf
+ls
+python pdf_compressor.py -c 2 /Users/mukulingle/Downloads/MetaShop\ X\ Amazon\ \(1\).pdf   -o MetaShopxAmazon.pdf
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2222/IMG_2222.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2222/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2222/IMG_2222.usdz
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2216/IMG_2216.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2216/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2216/IMG_2216.usdz
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2213/IMG_2213.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2213/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2213/IMG_2213.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos/IMG_2450.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos/images /Users/mukulingle/Downloads/4K\ Videos/IMG_2450.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2429/IMG_2429.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos 3/IMG_2429/images /Users/mukulingle/Downloads/4K\ Videos 3/IMG_2429/IMG_2429.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2429/images /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2429/IMG_2429.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2414/IMG_2414.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2414/images /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2414/IMG_2414.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2414/images /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2414/IMG_2414.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2443/IMG_2443.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2443/images /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2443/IMG_2443.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2452/IMG_2452.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2452/images /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2452/IMG_2452.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2442/IMG_2442.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2442/images /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2442/IMG_2442.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2451/IMG_2451.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2451/images /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2451/IMG_2451.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2451/images /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2451/IMG_2451.usdz
+python extract_frames.py /Users/mukulingle/Downloads/i2icarwide/i2icarwide.mov 
+scp /Users/mukulingle/Downloads/i2icarwide/i2icarwide.zip mukul@34.16.36.203:/home/mukul/gaussian-splatting/
+scp -r mukul@34.16.36.203:/home/mukul/gaussian-splatting/output/dd6199d0-7/point_cloud /Users/mukulingle/Downloads/i2icarwide/
+scp -r mukul@34.16.36.203:/home/mukul/gaussian-splatting/output/dd6199d0-7/point_cloud/30000_iterations /Users/mukulingle/Downloads/i2icarwide/
+scp -r mukul@34.16.36.203:/home/mukul/gaussian-splatting/output/dd6199d0-7/point_cloud/iteration_30000 /Users/mukulingle/Downloads/i2icarwide/
+scp /Users/mukulingle/Downloads/i2icarwide/i2icarwide.zip mukul@34.16.36.203:/home/mukul/gaussian-splatting/
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/IMG_0750.mov 
+scp /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/estilo_eve_1080_60.zip  mukul@34.16.36.203:/home/mukul/gaussian-splatting/
+scp -r mukul@34.16.36.203:/home/mukul/gaussian-splatting/output/203a3595-d/point_cloud /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/
+scp -r mukul@34.16.36.203:/home/mukul/gaussian-splatting/output/203a3595-d/point_cloud /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/IMG_0800.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/IMG_0800.usdz
+python extract_frames.py /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/IMG_0800.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0800/IMG_0800.usdz
+python extract_frames.py /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0801/IMG_0801.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0801/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0801/IMG_0801.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0802/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0802/IMG_0802.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0804/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0804/IMG_0804.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0805/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0805/IMG_0805.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0806/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0806/IMG_0806.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0807/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0807/IMG_0807.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0810/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0810/IMG_0810.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/battery/images /Users/mukulingle/Downloads/battery/battery.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0811/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0811/IMG_0811.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0812/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0812/IMG_0812.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0815/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0815/IMG_0815.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0815/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0815/IMG_0815.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0818/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0818/IMG_0818.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0819/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0819/IMG_0819.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0825/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0825/IMG_0825.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/IMG_0826.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/IMG_0826.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0826/IMG_0826.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0829/images /Users/mukulingle/Downloads/Plaeto_Turntable_Office/IMG_0829/IMG_0829.usdz
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2200/IMG_2200.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2200/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2200/IMG_2200.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2220/IMG_2220.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2220/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2220/IMG_2220.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2219/IMG_2219.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2229/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2219/IMG_2219.usdz 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2219/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2219/IMG_2219.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2214/IMG_2214.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2214/images /Users/mukulingle/Downloads/TurntableShoes/V2/IMG_2214/IMG_2214.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2440/IMG_2440.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2440/images /Users/mukulingle/Downloads/4K\ Videos\ 3/IMG_2440/IMG_2440.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2437/IMG_2437.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2437/images /Users/mukulingle/Downloads/4K\ Videos\ 4/IMG_2437/IMG_2437.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2422/IMG_2422.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2422/images /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2422/IMG_2422.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2404/IMG_2404.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2404/IMG_2404.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2404/images /Users/mukulingle/Downloads/4K\ Videos\ 2/IMG_2404/IMG_2404.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2444/IMG_2444.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2444/images /Users/mukulingle/Downloads/4K\ Videos\ 5/IMG_2444/IMG_2444.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2424/IMG_2424.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2424/images /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2424/IMG_2424.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2424/images /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2424/IMG_2424.usdz
+python extract_frames.py /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2419/IMG_2419.MOV 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2419/images /Users/mukulingle/Downloads/4K\ Videos\ 6/IMG_2419/IMG_2419.usdz
+cd ../
+ls
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+/Users/mukulingle/Downloads/PegasusTrail.pdf
+/Users/mukulingle/Downloads/PegasusTrail.pdf
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+/Users/mukulingle/Downloads/PegasusTrail.pdf
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+/Users/mukulingle/Downloads/PegasusTrail.pdf
+/Users/mukulingle/Downloads/PegasusTrail.pdf
+osascript usdztojpeg.applescript
+osascript usdztojpeg.applescript
+cd test
+cd tests
+python extract_frames.py /Users/mukulingle/Downloads/OfficeGaussian/far/IMG_0692.MOV 
+conda activate metashop
+git commit -a -m "Updated API access form link on Home page"
+git push
+docker buildx build --platform linux/amd64 -t  ms-website:v37 --no-cache .
+docker buildx build --platform linux/amd64 -t  ms-website:v37 --no-cache .
+docker image tag ms-website:v37 mukul9/ms-website:v37
+git push mukul9/ms-website:v37
+docker push mukul9/ms-website:v37
+cd ../
+ls
+cd metashop-backend
+git pull
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/White_yellow.html
+ssh mukul@34.16.36.203
+ssh mukul@34.16.36.203
+scp /Volumes/Extreme\ SSD/Clients/Restly/RestlyB6/mvi_8696/Reastly_High_Table.zip mukul@34.42.27.178:/home/mukulgaussian-splatting/
+scp /Volumes/Extreme\ SSD/Clients/Restly/RestlyB6/mvi_8696/Reastly_High_Table.zip mukul@34.42.27.178:/home/mukul/gaussian-splatting/
+scp /Volumes/Extreme\ SSD/Clients/Restly/RestlyB6/mvi_8696/Reastly_High_Table.zip mukul@34.42.27.178:/home/mukul/gaussian-splatting/
+scp /Volumes/Extreme\ SSD/Clients/Restly/RestlyB6/mvi_8696/Reastly_High_Table.zip mukul@34.42.27.178:/home/mukul/gaussian-splatting/
+exit
+cd /Users/mukulingle/Documents/MetaShop/deep_learning/metashop-web-app/MS/new/metashop-web 
+docker buildx build --platform linux/amd64 -t  ms-website:v38 --no-cache .
+docker buildx build --platform linux/amd64 -t  ms-website:v38 --no-cache .
+git pull
+ls
+cd ../
+ls
+rm -r metashop-web
+sudo rm -r metashop-web
+git clone git@github.com:MIMNSI/metashop-web.git
+cd metashop-web
+docker buildx build --platform linux/amd64 -t  ms-website:v38 --no-cache .
+docker image tag ms-website:v38 mukul9/ms-website:v38
+docker push mukul9/ms-website:v38
+cd ../staging
+ls
+cd metashop-backend
+cd ../
+ls
+git clone git@github.com:MIMNSI/metashop-backend.git
+docker buildx build --platform linux/amd64 -t  ms-api:staging-v27 --no-cache .
+ls
+cd metashop-backend
+docker buildx build --platform linux/amd64 -t  ms-api:staging-v27 --no-cache .
+docker image tag ms-api:staging-v27 mukul9/ms-api:staging-v27
+docker push mukul9/ms-api:staging-v27
+ssh mukul@34.72.77.118
+ssh mukul@34.72.77.118
+ssh mukul@34.72.77.118
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh IMG_7187.mov-38k6lx-1701643182867 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_7187.mov-38k6lx-1701643182867"
+bash run_seg_mesh_variable_0.sh IMG_6730.mov-8g459o-1701643474460 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_6730.mov-8g459o-1701643474460"
+scp  mukul@34.72.77.118:/home/gaussian-splatting/output/5c78a6bf-3.zip /Users/mukulingle/Downloads/GFS 
+scp  mukul@34.72.77.118:/home/mukul/gaussian-splatting/output/5c78a6bf-3.zip /Users/mukulingle/Downloads/GFS 
+scp /Users/mukulingle/Downloads/GFS/GFS_deblur.zip mukul@34.72.77.118:/home/mukul/gaussian-splatting/
+scp  mukul@34.72.77.118:/home/mukul/gaussian-splatting/output/9fac2070-e.zip /Users/mukulingle/Downloads/GFS 
+ssh mukul@104.198.233.160
+cd Public/tests
+ls
+python extract_frames.py /Users/mukulingle/Downloads/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4 
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4 
+python extract_images.py /Users/mukulingle/Downloads/untitled\ folder\ 4/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4 
+ls
+python extract_frames.py /Users/mukulingle/Downloads/untitled\ folder\ 4/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4 
+bash run_seg_mesh_variable_0.sh Gold_Top.MOV-8wlsdl-1701929340056 "https://storage.googleapis.com/metashoptests.appspot.com/Gold_Top.MOV-8wlsdl-1701929340056?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1701932950&Signature=qeAWD%2BpT6bk256RRNPm2CfERXgXxOiIwR9KhtAyv37pHVP7mBAKLSKPcn9kmf%2F9eP6y8aWzuyV8glZukBrvXi7a%2ByeilsJsPW5fGFPhr3zzzreI0rB63hQ2Xhf8VXiwmv72OmKHKAPnm751LRxVt4KvufaoB74IdJEIzpGhC7G2W%2BSdPWQVAMQL0epctI0H%2FRwTvab%2B5MIpnGRPFRwmeC%2BdIpKPNoT1P1m4IFyI6cKGLFJdZ2oEbPq%2BZCmrGTtaC1Edn4oDfCFCjrbLXBqNRx1K9lG%2BBfrKZ38W2Ejwi2nBVm8qoN557XjlyRN9PK1hzAsXv1OurjeBUgX4vcXHYug%3D%3D" 
+bash run_seg_mesh_variable_0.sh Gold_Top.MOV-8wlsdl-1701929340056 "https://storage.googleapis.com/metashoptests.appspot.com/Gold_Top.MOV-8wlsdl-1701929340056?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1701932950&Signature=qeAWD%2BpT6bk256RRNPm2CfERXgXxOiIwR9KhtAyv37pHVP7mBAKLSKPcn9kmf%2F9eP6y8aWzuyV8glZukBrvXi7a%2ByeilsJsPW5fGFPhr3zzzreI0rB63hQ2Xhf8VXiwmv72OmKHKAPnm751LRxVt4KvufaoB74IdJEIzpGhC7G2W%2BSdPWQVAMQL0epctI0H%2FRwTvab%2B5MIpnGRPFRwmeC%2BdIpKPNoT1P1m4IFyI6cKGLFJdZ2oEbPq%2BZCmrGTtaC1Edn4oDfCFCjrbLXBqNRx1K9lG%2BBfrKZ38W2Ejwi2nBVm8qoN557XjlyRN9PK1hzAsXv1OurjeBUgX4vcXHYug%3D%3D" 
+bsah run_seg_mesh_variable_0.sh aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4-jmfyad-1701929990382 "https://storage.googleapis.com/metashoptests.appspot.com/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4-jmfyad-1701929990382"
+bash run_seg_mesh_variable_0.sh aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4-jmfyad-1701929990382 "https://storage.googleapis.com/metashoptests.appspot.com/aa2990f5-cddb-4c32-8f61-f57bc80fe0b1.mp4-jmfyad-1701929990382"
+bash run_seg_mesh_variable_0.sh IMG_9717.MOV-7kcwen-1701929611635 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_9717.MOV-7kcwen-1701929611635"
+bash run_seg_mesh_variable_0.sh IMG_9717.MOV-7kcwen-1701929611635 Chupps_slider_02Black.MOV-p7zdss-1701929758405 "https://storage.googleapis.com/metashoptests.appspot.com/Chupps_slider_02Black.MOV-p7zdss-1701929758405"
+bash run_seg_mesh_variable_0.sh IMG_9717.MOV-7kcwen-1701929611635 Chupps_slider_02Black.MOV-p7zdss-1701929758405 "https://storage.googleapis.com/metashoptests.appspot.com/Chupps_slider_02Black.MOV-p7zdss-1701929758405"
+bash run_seg_mesh_variable_0.sh Chupps_slider_02Black.MOV-p7zdss-1701929758405 "https://storage.googleapis.com/metashoptests.appspot.com/Chupps_slider_02Black.MOV-p7zdss-1701929758405"
+ssh mukul@35.238.23.58
+cd Public/tests
+conda activate metashop
+ls
+python extract_frames.py /Users/mukulingle/Downloads/Chupps_slider_02Black.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/untitledfolder5/Chupps_slider_02Black.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.mp4 
+scp /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.zip mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+scp mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/ca1c0a8d-5.zip /Users/mukulingle/Downloads/Artment\ products/ 
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/VID_20231207_123729.mp4 
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/images  /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.usdz
+ssh mukul@35.238.23.58
+ssh mukul@104.198.233.160
+cd /Users/mukulingle/Documents/MetaShop/deep_learning/metashop-web-app/MS/new/staging 
+git clone git@github.com:MIMNSI/metashop-dashboard.git
+docker buildx build --platform linux/amd64 -t  ms-dashboard:staging-v31 --no-cache .
+cd metashop-dashboard
+docker buildx build --platform linux/amd64 -t  ms-dashboard:staging-v31 --no-cache .
+docker image tag ms-dashboard:staging-v31 mukul9/ms-dashboard:staging-v31
+docker push mukul9/ms-dashboard:staging-v31
+cd /Users/mukulingle/Documents/MetaShop/deep_learning/metashop-web-app/MS/new/metashop-web 
+git pull
+git pull
+cd ../
+mkdir new
+cd new
+git clone git@github.com:MIMNSI/metashop-web.git
+ls
+ssh mukul@104.198.233.160
+ssh mukul@104.198.233.160
+ssh mukul@104.198.233.160
+ssh mukul@104.198.233.160
+cd Documents
+ls
+cd deep_learning
+cd MetaShop/deep_learning
+git clone git@github.com:aras-p/UnityGaussianSplatting.git
+git clone git@github.com:aras-p/UnityGaussianSplatting.git
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/images /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.usdz
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/VID_20231207_123729.mp4 
+scp /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/VID_20231207_123729.zip mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+scp mukul@35.238.23.58:/home/mukul/gaussian-splatting/faad9898-6.zip  /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/
+scp mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/faad9898-6.zip  /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/
+scp /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123314/VID_20231207_123314.zip  mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+scp -r mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/f021d19b-8/point_cloud/iteration_7000/  /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/
+scp -r mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/f021d19b-8/point_cloud/iteration_30000/  /Users/mukulingle/Downloads/Artment\ products/VID_20231207_123729/
+python extract_frames.py /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_bottle/bottle.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_can/can.MOV 
+scp -r mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/ba6ff133-7/point_cloud/iteration_7000/ /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_bottle/ 
+scp /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_can/pepsi_can.zip mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+python extract_frames.py /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/buddy_chair.mp4 
+scp /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/buddy_chair.zip  mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+python extract_frames.py /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/buddy_shoes.mp4 
+scp mukul@35.238.23.58:/home/mukul/gaussian-splatting/output/5498b098-7.zip /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/ 
+scp /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/buddy_shoes.zip  mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+python extract_frames.py /Users/mukulingle/Downloads/nilay_scooter/IMG_2896.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/RedBull/IMG_2943.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/buddy_chair.mp4  
+ time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/images /Users/mukulingle/Downloads/For\ Metashop\ /buddy_chair/chair.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/buddy_shoes.mp4  
+ time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/images /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/shoes.usdz 
+cd Documents/MetaShop/deep_learning
+ls
+git clone git@github.com:mkkellogg/GaussianSplats3D.git
+cd GaussianSplats3D
+git pull
+ssh mukul@35.238.23.58
+ssh mukul@35.238.23.58
+scp mukul@34.134.42.137:/home/mukul/gaussian_splatting/output/db52bf32-c.zip /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/ 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/db52bf32-c.zip /Users/mukulingle/Downloads/For\ Metashop\ /buddy_shoes/ 
+scp /Users/mukulingle/Downloads/nilay_scooter/nilay_scooter.zip mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/214c5334-a.zip /Users/mukulingle/Downloads/nilay_scooter/ 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/214c5334-a.zip /Users/mukulingle/Downloads/nilay_scooter/ 
+scp /Users/mukulingle/Downloads/RedBull/RedBull.zip  mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/fbcde138-b.zip /Users/mukulingle/Downloads/RedBull/ 
+ssh mukul@35.238.23.58
+scp /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_bottle/pepsi_bottle.zip mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/Futurristic_bottles/pepsi_bottle/pepsi_bottle.zip mukul@35.238.23.58:/home/mukul/gaussian-splatting/
+ssh mukul@35.238.23.58
+ssh mukul@34.134.42.137
+ssh mukul@34.134.42.137
+ /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-features=SharedArrayBuffer
+ /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome flag --enable-features=SharedArrayBuffer
+ /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome flag --enable-features=SharedArrayBuffer
+ /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-features=SharedArrayBuffer
+cd ~/Downloads
+curl https://niujinshuchong.github.io/mip-splatting-demo/bonsai.html
+cd /Users/mukulingle/Downloads/GaussianSplats3D-0.1.9 
+conda activate metashop
+npm install
+npm run build
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+ls
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+npm run build
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+npm run build
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+npm run build
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+npm run build
+ npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp
+npm run demo
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/IMG_0750.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/IMG_0750.mov 
+python extract_frames.py /Users/mukulingle/Downloads/estilo_eve_4k_60/estilo_eve_1080_60/IMG_0750.mov 
+ifconfig
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome flag --enable-features=SharedArrayBuffer
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --enable-features=SharedArrayBuffer
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/chupps_orange_grey_thin /Users/mukulingle/Downloads/chupps_orange_grey_thin.usdz 
+cd Documents/MetaShop/deep_learning
+conda activate metashop
+ls
+cd GaussianSplats3D
+npm install
+npm run build
+npm run demo
+npm run demo
+npm run build
+npm run demo
+git pull
+npm run build
+npm run demo
+npm run demo
+npm run build
+npm run demo
+npm run demo
+npm run demo
+npm run demo
+npm serverz
+npm install serverz
+npx
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp   flag --enable-features=SharedArrayBuffer
+npm run demo  flag --enable-features=SharedArrayBuffer
+npm run demo --enable-features=SharedArrayBuffer
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp --enable-features=SharedArrayBuffer
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+npx servez --ssl ./build/demo/ --header=Cross-Origin-Opener-Policy:same-origin --header=Cross-Origin-Embedder-Policy:require-corp 
+ssh mukul
+ssh mukul@34.134.42.137
+ssh mukul@34.134.42.137
+ssh mukul@34.134.42.137
+ssh mukul@34.134.42.137
+ssh mukul@34.134.42.137
+d ~/Public/tests
+cd ~/Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/mukul_recording_vid_estilo/IMG_6532.MOV 
+scp /Users/mukulingle/Downloads/mukul_recording_vid_estilo/mukul_recording_vid_estilo.zip mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/fe1c56ce-d/point_coud/iteration_7000/point_cloud.ply /Users/mukulingle/Downloads/mukul_recording_vid_estilo 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/fe1c56ce-d/point_cloud/iteration_7000/point_cloud.ply /Users/mukulingle/Downloads/mukul_recording_vid_estilo 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/fe1c56ce-d/point_cloud/iteration_30000/point_cloud.ply /Users/mukulingle/Downloads/mukul_recording_vid_estilo/30000_it.ply 
+python extract_frames.py /Users/mukulingle/Downloads/mukul_recording_vid_estilo/IMG_2966.MOV 
+git push
+git push
+conda activate metashop
+git push
+ls
+rm -f .git/index.lock
+git
+git login
+git push
+cd ~/Downloads
+git clone git@github.com:MIMNSI/splats-viewer.git
+git push
+cd splats-viewer
+git push
+git push
+ls
+git push
+git commit -m "First Commit"
+git commit -a -m "First Commit"
+git add-commit -m "First Commit"
+git add .
+git commit -am "First Commit"
+git commit -am "First Commit"
+git add .
+find .git -iname *.lock | xargs rm\
+
+find .git -iname | xargs rm\
+
+dmesg
+git add .
+rm -f .git/index.lock\
+
+rm -f .git/HEAD.lock\
+
+git add .
+find -name "*.lock" -exec xargs rm {} \;\
+
+find -name "*.lock" -exec xargs rm {} \;\
+
+rm -f .git/index.lock
+git reset
+git add .
+branch -b "main"\
+
+git add .
+npm install gh-pages
+ls
+cd /Users/mukulingle/Downloads/splats-viewer 
+ls
+npm install gh-pages
+npm run build
+npm run deploy
+npm install gh-pages --save-dev
+npm run build
+npm run demo
+git add .
+git commit --amend
+git push
+git pull
+git rebase -hard
+git rebase --hard
+git reset --hard
+git log
+git status
+git pull
+git remote -r
+git remote -a
+git remote -v
+git remote origin
+git pull remote origin
+cd ../
+cd mkdir splat
+mkdir splats
+cd splats
+git clone git@github.com:MIMNSI/splats-viewer.git
+cd splats-viewer
+pwd
+npm install gh-pages -D
+git status
+git add .
+npm run deploy
+ssh mukul@104.197.21.35
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/11_30_am_estilo/IMG_3101.mov 
+scp /Users/mukulingle/Downloads/11_30_am_estilo/11_30_am_estilo.zip  mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/4ba7f373-a.zip
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/4ba7f373-a.zip /Users/mukulingle/Downloads/11_30_am_estilo 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/4ba7f373-a.zip /Users/mukulingle/Downloads/11_30_am_estilo/ 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/4ba7f373-a.zip /Users/mukulingle/Downloads/11_30_am_estilo/ 
+python extract_frames.py /Users/mukulingle/Downloads/2_30pm_estilo/IMG_3109.MOV 
+scp /Users/mukulingle/Downloads/2_30_pm_estilo/2_30_pm_estilo.zip  mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/2_30_pm_estilo/2_30_pm_estilo.zip  mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+ls
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/fd81144a-2.zip /Users/mukulingle/Downloads/11_30_am_estilo/ 
+python extract_frames.py /Users/mukulingle/Downloads/4_30_pm_estilo/IMG_3111.MOV 
+scp /Users/mukulingle/Downloads/4_30_pm_estilo/4_30_pm_estilo.zip  mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/3e0e28b4-0.zip /Users/mukulingle/Downloads/11_30_am_estilo/ 
+ssh mukul@34.134.42.137
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/desee_art_links/shehri_zameen/shehri_zameen.html
+ssh mukul@34.134.42.137
+cd /Users/mukulingle/Downloads/splats/splats-viewer 
+history
+npm run deploy
+ls
+npm run deploy
+npm run deploy
+/Applications/usdpython/usdzconvert/usdzconvert ; exit;
+/Applications/usdpython/usdzconvert/usdzconvert; exit
+npm run build
+npm run deploy
+history
+scp /Users/mukulingle/Downloads/4_30_pm_estilo/4_30_pm_estilo.zip mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/cdc962e1-3.zip /Users/mukulingle/Downloads/4_30_pm_estilo/ 
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/shehri_zameen.html
+cd Public/tests
+conda activate metashop
+python extract_framees.py /Users/mukulingle/Downloads/StagFurniture/IMG_2499.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/IMG_2499.MOV 
+scp /Users/mukulingle/Downloads/StagFurniture/StagFurnitureChair.zip mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/b907c71e-7/point_cloud/iteration_3000/point_cloud.ply /Users/mukulingle/Downloads/StagFurniture 
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/b907c71e-7/point_cloud/iteration_3000/point_cloud.ply /Users/mukulingle/Downloads/StagFurniture/
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/b907c71e-7/point_cloud/iteration_7000/point_cloud.ply /Users/mukulingle/Downloads/StagFurniture/
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/Sofa/IMG_2502.MOV 
+scp /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa.zip mukul@34.134.42.137:/home/mukul/gaussian-s\
+platting/
+scp /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa.zip mukul@34.134.42.137:/home/mukul/gaussian-splatting/
+ssh mukul@34.134.42.137
+ls
+cd ../
+ls
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+gcloud
+gcloud storage cp /Users/mukulingle/Public/20231222_205400.mp4-uvjj1t-1703259469084.usdz  gs://metashop_demo_models
+gsutil acl ch -u AllUsers:R "gs://metashop_demo_models/20231222_205400.mp4-uvjj1t-1703259469084.usdz"
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+pip install aspose-3d
+pip install pymesh
+ls
+python usdz_glb.py
+usdzconvert
+usdzconvert
+python usdz_glb.py
+python usdz_glb.py
+python usdz_glb.py
+pip install blenderpy
+pip install bpy
+python
+pip install bpy
+git clone https://github.com/michaelgold/usdzconvert-docker.git
+cd usdzconvert-docker
+ls
+docker build -t michaelgold/usdzconvert . -f Dockerfile
+ls
+cd usdzconvert
+ls
+usdzconvert
+./usdzconvert
+../
+cd ../
+pwd
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert /Users/mukulingle/Public/chupps_orange_grey_thin.usdz 
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert chupps_orange_grey_thin.usdz 
+cd ../
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert chupps_orange_grey_thin.usdz 
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert /Users/mukulingle/Public/chupps_orange_grey_thin.usdz 
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert /Users/mukulingle/Public/chupps_orange_grey_thin.usdz /Users/mukulingle/Public/chupps_orange_grey_thin.glb
+docker run -v ${PWD}:/Users/mukulingle/Public --rm michaelgold/usdzconvert -h
+pip install usd2gltf
+python
+npm install -g obj2gltf
+obj2gltf -i /Users/mukulingle/Downloads/Ex/Example-1.obj -o /Users/mukulingle/Downloads/Ex/Example-1.glb
+obj2gltf -i /Users/mukulingle/Downloads/Ex/Example-1.obj -o /Users/mukulingle/Downloads/Ex/Example-2.glb
+pip install aspose
+ssh mukul@34.134.42.137
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa  /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa/input  /Users/mukulingle/Downloads/StagFurniture/Sofa/stag_sofa.usdz
+scp mukul@34.134.42.137:/home/mukul/gaussian-splatting/output/4d32e79d-7.zip /Users/mukulingle/Downloads/StagFurniture/Sofa 
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/Sofa/IMG_2502.MOV 
+cd /Users/mukulingle/Downloads/splats/splats-viewer 
+npm run build
+npm run demo
+npm run build
+npm run demo
+npm run build
+npm run demo
+conda deactivate
+conda create -n assetpipeline
+conda create -n assetpipeline python=3.9
+conda activate assetpipeline
+pip install usd2gltf
+usd2gltf -h
+usd2gltf -i /Users/mukulingle/Public/chupps_orange_grey_thin.usdz -o /Users/mukulingle/Public/chupps_orange_grey_thin.glb
+usd2gltf -i /Users/mukulingle/Downloads/Example-1.usdz  /Users/mukulingle/Downloads/Example-1.glb
+usd2gltf -i /Users/mukulingle/Downloads/Example-1.usdz  -o /Users/mukulingle/Downloads/Example-1.glb
+usd2gltf -i /Users/mukulingle/Downloads/Example-1.usdz  -o /Users/mukulingle/Downloads/Example-1.glb -d
+cd /usr/local/bin
+ls
+ls
+cd /Users/mukulingle/Library/Developer/Xcode/DerivedData/
+ls
+cd USDConverter-bibiezdkhnlotyahkkcdlkiaevda
+ls
+cd Build
+ls
+cd Products/Debug
+ls
+usdconv /Users/mukulingle/Downloads/Example-1.usdz 
+cd usdconv
+ls
+./usdconv
+./usdconv /Users/mukulingle/Downloads/Example-1.usdz 
+ls
+cd ../
+ls
+cd ../../
+ls
+cd ../
+ls
+cd USDConverter-bibiezdkhnlotyahkkcdlkiaevda
+ls
+cd Build
+ls
+cd Products
+ls
+cd Debug
+ls
+./usdconv /Users/mukulingle/Downloads/Example-1.usdz 
+./usdconv /Users/mukulingle/Downloads/Example-1.usdz --png
+/Applications/usdpython/USD.command; exit
+/Applications/usdpython/usdzconvert/usdzconvert
+/Applications/usdpython/usdzconvert
+/Applications/usdpython/usdzconvert/usdzconvert
+conda activate metashop
+/Applications/usdpython/usdzconvert/usdzconvert
+which python
+python
+/Applications/usdpython/USD.command; exit
+ssh mukul@34.66.1.246
+ssh mukul@34.66.1.246
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231207_123729/VID_20231207_123729.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231207_123729/images /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231207_123729/VID_20231207_123729.usdz
+python extract_frames.py /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125414/VID_20231213_125414.mp4  
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125414/images /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125414/VID_20231213_125414.usdz
+python extract_frames.py /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125944/VID_20231213_125944.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125944/images /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125944/VID_20231213_125944.usdz
+python extract_frames.py /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_130358/VID_20231213_130358.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_130358/images /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_130358/VID_20231213_130358.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125414/images /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231213_125414/VID_20231213_125414_crop.usdz
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/IMG_2686/IMG_2686.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/IMG_2686/IMG_2686.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/Car\ videos/IMG_6531/IMG_6531.MOV 
+python extract_frames.py /Users/mukulingle/Downloads/Car\ videos/IMG_6531/IMG_6531.MOV 
+scp /Users/mukulingle/Downloads/StagFurniture/IMG_2686/input.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/01b9606c-4.zip /Users/mukulingle/Downloads/StagFurniture/IMG_2686/
+scp /Users/mukulingle/Downloads/StagFurniture/IMG_2686/input.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/IMG_2686/
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/92b175eb-f.zip /Users/mukulingle/Downloads/StagFurniture/IMG_2686/
+scp /Users/mukulingle/Downloads/Car\ videos/IMG_6531/input.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/IMG_6531/
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/c250353a-4.zip /Users/mukulingle/Downloads/Car\ videos/IMG_6531/ 
+scp /Users/mukulingle/Downloads/Car\ videos/IMG_6531/input.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/IMG_6531/
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/2d2f8c87-0.zip /Users/mukulingle/Downloads/Car\ videos/IMG_6531/ 
+ssh mukul@34.66.1.246
+ssh mukul@34.66.1.246
+ npm run build
+npm run deploy
+ npm run build
+npm run deploy
+ npm run build
+npm run deploy
+ npm run build
+npm run
+npm run sstart
+npm run start
+npm run demo
+ npm run build
+npm run deploy
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/9e2d0d38-4.zip /Users/mukulingle/Downloads/Car\ videos/Innova/eve/ 
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/f4ed4d94-e.zip /Users/mukulingle/Downloads/Car\ videos/Innova/after/ 
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/StagFurniture/IMG_2968/IMG_2968.MOV 
+scp /Users/mukulingle/Downloads/StagFurniture/IMG_2968/IMG_2968.zip  mukul@34.66.1.246:/home/mukul/gaussian-splatting
+ssh mukul@34.66.1.246
+ssh mukul@34.66.1.246
+cd ~/Desktop
+wget   => Filtered observations: 307\
+  => Changed observations: 0.063218\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18772\
+   Parameters : 4445\
+   Iterations : 3\
+         Time : 0.163874 [s]\
+ Initial cost : 0.691563 [px]\
+   Final cost : 0.681209 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 25\
+  => Completed observations: 47\
+  => Filtered observations: 2\
+  => Changed observations: 0.007180\
+\
+==============================================================================\
+Registering image #34 (143)\
+==============================================================================\
+\
+  => Image sees 1224 / 2283 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 2554\
+   Parameters : 6\
+   Iterations : 8\
+         Time : 0.0534141 [s]\
+ Initial cost : 0.638864 [px]\
+   Final cost : 0.618824 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 1121\
+  => Added observations: 771\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 20560\
+   Parameters : 4979\
+   Iterations : 26\
+         Time : 1.44685 [s]\
+ Initial cost : 0.672304 [px]\
+   Final cost : 0.641668 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 394\
+  => Completed observations: 116\
+  => Filtered observations: 222\
+  => Changed observations: 0.064934\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 20486\
+   Parameters : 4778\
+   Iterations : 3\
+         Time : 0.171227 [s]\
+ Initial cost : 0.682588 [px]\
+   Final cost : 0.671732 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 18\
+  => Completed observations: 43\
+  => Filtered observations: 2\
+  => Changed observations: 0.005605\
+\
+==============================================================================\
+Registering image #58 (144)\
+==============================================================================\
+\
+  => Image sees 1093 / 1748 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 2300\
+   Parameters : 6\
+   Iterations : 15\
+         Time : 0.088311 [s]\
+ Initial cost : 0.77747 [px]\
+   Final cost : 0.672269 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 997\
+  => Added observations: 451\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 20988\
+   Parameters : 3539\
+   Iterations : 26\
+         Time : 1.36798 [s]\
+ Initial cost : 0.685852 [px]\
+   Final cost : 0.654334 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 677\
+  => Completed observations: 76\
+  => Filtered observations: 204\
+  => Changed observations: 0.084102\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 20778\
+   Parameters : 3383\
+   Iterations : 3\
+         Time : 0.161116 [s]\
+ Initial cost : 0.706568 [px]\
+   Final cost : 0.698035 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 73\
+  => Completed observations: 25\
+  => Filtered observations: 1\
+  => Changed observations: 0.008780\
+\
+==============================================================================\
+Registering image #32 (145)\
+==============================================================================\
+\
+  => Image sees 813 / 1140 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1798\
+   Parameters : 6\
+   Iterations : 9\
+         Time : 0.0406902 [s]\
+ Initial cost : 0.706478 [px]\
+   Final cost : 0.677916 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 722\
+  => Added observations: 293\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17312\
+   Parameters : 1721\
+   Iterations : 26\
+         Time : 1.10981 [s]\
+ Initial cost : 0.804808 [px]\
+   Final cost : 0.766615 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 147\
+  => Completed observations: 39\
+  => Filtered observations: 244\
+  => Changed observations: 0.043518\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17056\
+   Parameters : 1583\
+   Iterations : 3\
+         Time : 0.128959 [s]\
+ Initial cost : 0.762071 [px]\
+   Final cost : 0.752751 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 54\
+  => Completed observations: 29\
+  => Filtered observations: 2\
+  => Changed observations: 0.008714\
+\
+==============================================================================\
+Registering image #120 (146)\
+==============================================================================\
+\
+  => Image sees 936 / 2044 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1848\
+   Parameters : 6\
+   Iterations : 10\
+         Time : 0.048265 [s]\
+ Initial cost : 0.725042 [px]\
+   Final cost : 0.638644 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 836\
+  => Added observations: 492\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18776\
+   Parameters : 3935\
+   Iterations : 26\
+         Time : 1.30079 [s]\
+ Initial cost : 0.696007 [px]\
+   Final cost : 0.655598 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 258\
+  => Completed observations: 64\
+  => Filtered observations: 184\
+  => Changed observations: 0.047405\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18616\
+   Parameters : 3827\
+   Iterations : 3\
+         Time : 0.150779 [s]\
+ Initial cost : 0.702101 [px]\
+   Final cost : 0.692781 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 0\
+  => Completed observations: 22\
+  => Filtered observations: 1\
+  => Changed observations: 0.002171\
+\
+==============================================================================\
+Registering image #197 (147)\
+==============================================================================\
+\
+  => Image sees 816 / 1338 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1736\
+   Parameters : 6\
+   Iterations : 10\
+         Time : 0.041528 [s]\
+ Initial cost : 0.751099 [px]\
+   Final cost : 0.700311 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 730\
+  => Added observations: 360\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 16430\
+   Parameters : 2309\
+   Iterations : 26\
+         Time : 1.03924 [s]\
+ Initial cost : 0.707528 [px]\
+   Final cost : 0.683451 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 195\
+  => Completed observations: 66\
+  => Filtered observations: 208\
+  => Changed observations: 0.049672\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 16222\
+   Parameters : 2213\
+   Iterations : 3\
+         Time : 0.124212 [s]\
+ Initial cost : 0.767293 [px]\
+   Final cost : 0.756543 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 35\
+  => Completed observations: 20\
+  => Filtered observations: 3\
+  => Changed observations: 0.006212\
+\
+==============================================================================\
+Registering image #81 (148)\
+==============================================================================\
+\
+  => Image sees 877 / 1398 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1882\
+   Parameters : 6\
+   Iterations : 15\
+         Time : 0.066628 [s]\
+ Initial cost : 0.725711 [px]\
+   Final cost : 0.694045 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 783\
+  => Added observations: 362\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18900\
+   Parameters : 2633\
+   Iterations : 26\
+         Time : 1.20276 [s]\
+ Initial cost : 0.736041 [px]\
+   Final cost : 0.709764 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 234\
+  => Completed observations: 57\
+  => Filtered observations: 245\
+  => Changed observations: 0.048772\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18680\
+   Parameters : 2489\
+   Iterations : 3\
+         Time : 0.140918 [s]\
+ Initial cost : 0.747959 [px]\
+   Final cost : 0.737265 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 69\
+  => Completed observations: 45\
+  => Filtered observations: 3\
+  => Changed observations: 0.010754\
+\
+==============================================================================\
+Registering image #59 (149)\
+==============================================================================\
+\
+  => Image sees 895 / 1693 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1758\
+   Parameters : 6\
+   Iterations : 15\
+         Time : 0.062417 [s]\
+ Initial cost : 0.790223 [px]\
+   Final cost : 0.684437 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 758\
+  => Added observations: 438\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 16252\
+   Parameters : 2447\
+   Iterations : 26\
+         Time : 1.0403 [s]\
+ Initial cost : 0.800649 [px]\
+   Final cost : 0.758129 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 298\
+  => Completed observations: 64\
+  => Filtered observations: 210\
+  => Changed observations: 0.058012\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 16118\
+   Parameters : 2210\
+   Iterations : 3\
+         Time : 0.120555 [s]\
+ Initial cost : 0.788903 [px]\
+   Final cost : 0.779885 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 58\
+  => Completed observations: 22\
+  => Filtered observations: 5\
+  => Changed observations: 0.008759\
+\
+==============================================================================\
+Registering image #166 (150)\
+==============================================================================\
+\
+  => Image sees 474 / 603 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1148\
+   Parameters : 6\
+   Iterations : 12\
+         Time : 0.0327232 [s]\
+ Initial cost : 0.811041 [px]\
+   Final cost : 0.796197 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 436\
+  => Added observations: 217\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 29282\
+   Parameters : 1325\
+   Iterations : 26\
+         Time : 1.90644 [s]\
+ Initial cost : 0.63508 [px]\
+   Final cost : 0.617481 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 86\
+  => Completed observations: 34\
+  => Filtered observations: 241\
+  => Changed observations: 0.020685\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 28832\
+   Parameters : 1148\
+   Iterations : 3\
+         Time : 0.228782 [s]\
+ Initial cost : 0.728899 [px]\
+   Final cost : 0.722735 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 36\
+  => Completed observations: 21\
+  => Filtered observations: 2\
+  => Changed observations: 0.003461\
+\
+==============================================================================\
+Registering image #198 (151)\
+==============================================================================\
+\
+  => Image sees 697 / 1206 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1480\
+   Parameters : 6\
+   Iterations : 11\
+         Time : 0.038928 [s]\
+ Initial cost : 0.726534 [px]\
+   Final cost : 0.690311 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 613\
+  => Added observations: 309\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17992\
+   Parameters : 1889\
+   Iterations : 26\
+         Time : 1.12896 [s]\
+ Initial cost : 0.663024 [px]\
+   Final cost : 0.639055 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 182\
+  => Completed observations: 69\
+  => Filtered observations: 166\
+  => Changed observations: 0.042603\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17752\
+   Parameters : 1769\
+   Iterations : 3\
+         Time : 0.130534 [s]\
+ Initial cost : 0.716044 [px]\
+   Final cost : 0.708577 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 35\
+  => Completed observations: 17\
+  => Filtered observations: 1\
+  => Changed observations: 0.005575\
+\
+==============================================================================\
+Registering image #199 (152)\
+==============================================================================\
+\
+  => Image sees 609 / 950 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1226\
+   Parameters : 6\
+   Iterations : 11\
+         Time : 0.0332301 [s]\
+ Initial cost : 0.783225 [px]\
+   Final cost : 0.7551 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 489\
+  => Added observations: 321\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18306\
+   Parameters : 2447\
+   Iterations : 26\
+         Time : 1.19648 [s]\
+ Initial cost : 0.731312 [px]\
+   Final cost : 0.707728 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 95\
+  => Completed observations: 34\
+  => Filtered observations: 283\
+  => Changed observations: 0.039688\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17458\
+   Parameters : 1727\
+   Iterations : 3\
+         Time : 0.138147 [s]\
+ Initial cost : 0.764836 [px]\
+   Final cost : 0.755597 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 28\
+  => Completed observations: 45\
+  => Filtered observations: 3\
+  => Changed observations: 0.007746\
+\
+==============================================================================\
+Registering image #127 (153)\
+==============================================================================\
+\
+  => Image sees 587 / 1206 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1234\
+   Parameters : 6\
+   Iterations : 13\
+         Time : 0.0384488 [s]\
+ Initial cost : 0.791705 [px]\
+   Final cost : 0.71183 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 519\
+  => Added observations: 258\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 24746\
+   Parameters : 1124\
+   Iterations : 26\
+         Time : 1.63434 [s]\
+ Initial cost : 0.685464 [px]\
+   Final cost : 0.661412 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 194\
+  => Completed observations: 32\
+  => Filtered observations: 142\
+  => Changed observations: 0.025588\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 24556\
+   Parameters : 1040\
+   Iterations : 3\
+         Time : 0.192658 [s]\
+ Initial cost : 0.751246 [px]\
+   Final cost : 0.746854 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 18\
+  => Completed observations: 12\
+  => Filtered observations: 2\
+  => Changed observations: 0.002240\
+\
+==============================================================================\
+Retriangulation\
+==============================================================================\
+\
+  => Completed observations: 191\
+  => Merged observations: 1434\
+  => Retriangulated observations: 40\
+\
+==============================================================================\
+Global bundle adjustment\
+==============================================================================\
+\
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time\
+   0  3.303001e+05    0.00e+00    5.79e+05   0.00e+00   0.00e+00  1.00e+04        0    2.53e-01    2.33e+00\
+\
+CHOLMOD version 3.0.14, Oct 22, 2019: Symbolic Analysis: status: OK\
+  Architecture: Linux\
+    sizeof(int):      4\
+    sizeof(SuiteSparse_long):  8\
+    sizeof(void *):   8\
+    sizeof(double):   8\
+    sizeof(Int):      4 (CHOLMOD's basic integer)\
+    sizeof(BLAS_INT): 4 (integer used in the BLAS)\
+  Results from most recent analysis:\
+    Cholesky flop count: 2.5663e+08\
+    Nonzeros in L:       4.2044e+05\
+  memory blocks in use:          11\
+  memory in use (MB):           0.0\
+  peak memory usage (MB):       1.6\
+  maxrank:    update/downdate rank:   8\
+  supernodal control: 1 40 (supernodal if flops/lnz >= 40)\
+  nmethods:   number of ordering methods to try: 1\
+    method 0: natural\
+        flop count: 2.5663e+08\
+        nnz(L):     4.2044e+05\
+  OK\
+   1  2.825378e+05    4.78e+04    1.52e+04   1.00e+00   1.01e+00  3.00e+04        1    1.87e+00    4.20e+00\
+   2  2.824372e+05    1.01e+02    8.94e+02   2.71e-01   1.04e+00  9.00e+04        1    8.25e-01    5.02e+00\
+   3  2.824348e+05    2.42e+00    8.69e+02   2.62e-01   1.01e+00  2.70e+05        1    8.17e-01    5.84e+00\
+   4  2.824344e+05    3.46e-01    2.64e+02   1.34e-01   1.00e+00  8.10e+05        1    8.06e-01    6.65e+00\
+\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 453756\
+   Parameters : 108146\
+   Iterations : 5\
+         Time : 7.24816 [s]\
+ Initial cost : 0.853185 [px]\
+   Final cost : 0.788947 [px]\
+  Termination : Convergence\
+\
+  => Completed observations: 106\
+  => Merged observations: 455\
+  => Filtered observations: 182\
+  => Changed observations: 0.003275\
+\
+==============================================================================\
+Global bundle adjustment\
+==============================================================================\
+\
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time\
+   0  2.413810e+05    0.00e+00    2.94e+05   0.00e+00   0.00e+00  1.00e+04        0    2.46e-01    2.34e+00\
+\
+CHOLMOD version 3.0.14, Oct 22, 2019: Symbolic Analysis: status: OK\
+  Architecture: Linux\
+    sizeof(int):      4\
+    sizeof(SuiteSparse_long):  8\
+    sizeof(void *):   8\
+    sizeof(double):   8\
+    sizeof(Int):      4 (CHOLMOD's basic integer)\
+    sizeof(BLAS_INT): 4 (integer used in the BLAS)\
+  Results from most recent analysis:\
+    Cholesky flop count: 2.5663e+08\
+    Nonzeros in L:       4.2044e+05\
+  memory blocks in use:          11\
+  memory in use (MB):           0.0\
+  peak memory usage (MB):       1.6\
+  maxrank:    update/downdate rank:   8\
+  supernodal control: 1 40 (supernodal if flops/lnz >= 40)\
+  nmethods:   number of ordering methods to try: 1\
+    method 0: natural\
+        flop count: 2.5663e+08\
+        nnz(L):     4.2044e+05\
+  OK\
+   1  2.403874e+05    9.94e+02    1.03e+04   6.09e-01   1.00e+00  3.00e+04        1    1.85e+00    4.19e+00\
+   2  2.403827e+05    4.68e+00    8.65e+02   2.53e-01   1.00e+00  9.00e+04        1    7.91e-01    4.98e+00\
+   3  2.403808e+05    1.92e+00    8.42e+02   2.37e-01   1.00e+00  2.70e+05        1    7.91e-01    5.77e+00\
+   4  2.403805e+05    2.65e-01    1.89e+02   1.10e-01   1.00e+00  8.10e+05        1    7.98e-01    6.57e+00\
+\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 453602\
+   Parameters : 108053\
+   Iterations : 5\
+         Time : 7.16102 [s]\
+ Initial cost : 0.729481 [px]\
+   Final cost : 0.727968 [px]\
+  Termination : Convergence\
+\
+  => Completed observations: 40\
+  => Merged observations: 300\
+  => Filtered observations: 21\
+  => Changed observations: 0.001592\
+\
+==============================================================================\
+Global bundle adjustment\
+==============================================================================\
+\
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time\
+   0  2.405175e+05    0.00e+00    3.03e+04   0.00e+00   0.00e+00  1.00e+04        0    2.60e-01    2.33e+00\
+\
+CHOLMOD version 3.0.14, Oct 22, 2019: Symbolic Analysis: status: OK\
+  Architecture: Linux\
+    sizeof(int):      4\
+    sizeof(SuiteSparse_long):  8\
+    sizeof(void *):   8\
+    sizeof(double):   8\
+    sizeof(Int):      4 (CHOLMOD's basic integer)\
+    sizeof(BLAS_INT): 4 (integer used in the BLAS)\
+  Results from most recent analysis:\
+    Cholesky flop count: 2.5663e+08\
+    Nonzeros in L:       4.2044e+05\
+  memory blocks in use:          11\
+  memory in use (MB):           0.0\
+  peak memory usage (MB):       1.6\
+  maxrank:    update/downdate rank:   8\
+  supernodal control: 1 40 (supernodal if flops/lnz >= 40)\
+  nmethods:   number of ordering methods to try: 1\
+    method 0: natural\
+        flop count: 2.5663e+08\
+        nnz(L):     4.2044e+05\
+  OK\
+   1  2.404428e+05    7.47e+01    2.66e+01   6.96e-02   1.00e+00  3.00e+04        1    1.85e+00    4.18e+00\
+\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 453640\
+   Parameters : 108029\
+   Iterations : 2\
+         Time : 4.76044 [s]\
+ Initial cost : 0.728145 [px]\
+   Final cost : 0.728032 [px]\
+  Termination : Convergence\
+\
+  => Completed observations: 9\
+  => Merged observations: 0\
+  => Filtered observations: 5\
+  => Changed observations: 0.000062\
+  => Filtered images: 0\
+\
+==============================================================================\
+Registering image #156 (154)\
+==============================================================================\
+\
+  => Image sees 600 / 1233 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1180\
+   Parameters : 6\
+   Iterations : 13\
+         Time : 0.036952 [s]\
+ Initial cost : 0.704418 [px]\
+   Final cost : 0.690154 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 531\
+  => Added observations: 323\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 28082\
+   Parameters : 2072\
+   Iterations : 26\
+         Time : 1.71015 [s]\
+ Initial cost : 0.613519 [px]\
+   Final cost : 0.594913 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 123\
+  => Completed observations: 76\
+  => Filtered observations: 111\
+  => Changed observations: 0.018245\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 28014\
+   Parameters : 2024\
+   Iterations : 3\
+         Time : 0.204909 [s]\
+ Initial cost : 0.718247 [px]\
+   Final cost : 0.713387 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 15\
+  => Completed observations: 12\
+  => Filtered observations: 1\
+  => Changed observations: 0.001758\
+\
+==============================================================================\
+Registering image #90 (155)\
+==============================================================================\
+\
+  => Image sees 601 / 852 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1392\
+   Parameters : 6\
+   Iterations : 11\
+         Time : 0.0355959 [s]\
+ Initial cost : 0.72639 [px]\
+   Final cost : 0.719639 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 550\
+  => Added observations: 285\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 21520\
+   Parameters : 1268\
+   Iterations : 26\
+         Time : 1.338 [s]\
+ Initial cost : 0.710877 [px]\
+   Final cost : 0.693702 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 121\
+  => Completed observations: 39\
+  => Filtered observations: 186\
+  => Changed observations: 0.027263\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 21312\
+   Parameters : 1205\
+   Iterations : 3\
+         Time : 0.156935 [s]\
+ Initial cost : 0.789029 [px]\
+   Final cost : 0.783318 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 50\
+  => Completed observations: 16\
+  => Filtered observations: 2\
+  => Changed observations: 0.005571\
+\
+==============================================================================\
+Registering image #28 (156)\
+==============================================================================\
+\
+  => Image sees 487 / 639 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1374\
+   Parameters : 6\
+   Iterations : 13\
+         Time : 0.042429 [s]\
+ Initial cost : 0.832307 [px]\
+   Final cost : 0.800119 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 430\
+  => Added observations: 244\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 17186\
+   Parameters : 1121\
+   Iterations : 26\
+         Time : 1.05755 [s]\
+ Initial cost : 0.769542 [px]\
+   Final cost : 0.757387 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 47\
+  => Completed observations: 24\
+  => Filtered observations: 252\
+  => Changed observations: 0.030411\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 18358\
+   Parameters : 1001\
+   Iterations : 3\
+         Time : 0.136095 [s]\
+ Initial cost : 0.83085 [px]\
+   Final cost : 0.822621 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 5\
+  => Completed observations: 34\
+  => Filtered observations: 3\
+  => Changed observations: 0.004042\
+\
+==============================================================================\
+Registering image #150 (157)\
+==============================================================================\
+\
+  => Image sees 662 / 1285 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1216\
+   Parameters : 6\
+   Iterations : 13\
+         Time : 0.0369899 [s]\
+ Initial cost : 0.71667 [px]\
+   Final cost : 0.702853 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 523\
+  => Added observations: 315\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 14036\
+   Parameters : 1790\
+   Iterations : 26\
+         Time : 0.88975 [s]\
+ Initial cost : 0.838549 [px]\
+   Final cost : 0.790362 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 138\
+  => Completed observations: 27\
+  => Filtered observations: 190\
+  => Changed observations: 0.039977\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 13784\
+   Parameters : 1664\
+   Iterations : 3\
+         Time : 0.099978 [s]\
+ Initial cost : 0.763466 [px]\
+   Final cost : 0.755943 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 0\
+  => Completed observations: 32\
+  => Filtered observations: 2\
+  => Changed observations: 0.003885\
+\
+==============================================================================\
+Registering image #35 (158)\
+==============================================================================\
+\
+  => Image sees 841 / 1437 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1702\
+   Parameters : 6\
+   Iterations : 14\
+         Time : 0.058032 [s]\
+ Initial cost : 0.663296 [px]\
+   Final cost : 0.632265 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 725\
+  => Added observations: 514\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 16088\
+   Parameters : 2669\
+   Iterations : 26\
+         Time : 0.993257 [s]\
+ Initial cost : 0.741217 [px]\
+   Final cost : 0.71142 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 296\
+  => Completed observations: 54\
+  => Filtered observations: 204\
+  => Changed observations: 0.059737\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 15890\
+   Parameters : 2519\
+   Iterations : 3\
+         Time : 0.119195 [s]\
+ Initial cost : 0.720366 [px]\
+   Final cost : 0.712119 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 15\
+  => Completed observations: 31\
+  => Filtered observations: 1\
+  => Changed observations: 0.005123\
+\
+==============================================================================\
+Registering image #82 (159)\
+==============================================================================\
+\
+  => Image sees 775 / 1237 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1614\
+   Parameters : 6\
+   Iterations : 11\
+         Time : 0.0423231 [s]\
+ Initial cost : 0.741908 [px]\
+   Final cost : 0.66951 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 679\
+  => Added observations: 484\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 14026\
+   Parameters : 2249\
+   Iterations : 26\
+         Time : 0.869967 [s]\
+ Initial cost : 0.849545 [px]\
+   Final cost : 0.817083 [px]\
+  Termination : No convergence\
+\
+  => Merged observations: 322\
+  => Completed observations: 38\
+  => Filtered observations: 216\
+  => Changed observations: 0.071500\
+\
+Bundle adjustment report\
+------------------------\
+    Residuals : 13830\
+   Parameters : 2081\
+   Iterations : 3\
+         Time : 0.102302 [s]\
+ Initial cost : 0.805416 [px]\
+   Final cost : 0.79431 [px]\
+  Termination : Convergence\
+\
+  => Merged observations: 18\
+  => Completed observations: 28\
+  => Filtered observations: 4\
+  => Changed observations: 0.006288\
+\
+==============================================================================\
+Registering image #121 (160)\
+==============================================================================\
+\
+  => Image sees 820 / 2660 points\
+\
+Pose refinement report\
+----------------------\
+    Residuals : 1570\
+   Parameters : 6\
+   Iterations : 8\
+         Time : 0.030576 [s]\
+ Initial cost : 0.65603 [px]\
+   Final cost : 0.652058 [px]\
+  Termination : Convergence\
+\
+  => Continued observations: 705\
+  => Added observations: 515\
+client_loop: send disconnect: Broken pipe\
+(metashop) mukulingle@Mukuls-MacBook-Pro-2 tests % wget\
+
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/Blue%20Grey%20Trophy.html
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/f49366cf-4.zip
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/f49366cf-4.zip /Users/mukulingle/Downloads/StagFurniture/IMG_2968 
+cd ~/Public/tests
+ls
+python extract_frames.py /Users/mukulingle/Downloads/Sandesh_portrait/IMG_2423.MOV 
+scp /Users/mukulingle/Downloads/Sandesh_portrait/Sandesh_portrait.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/Sandesh_portrait/Sandesh_portrait.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/
+ssh mukul@34.66.1.246
+cat run_seg_mesh_variable_0.sh
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Plaeto_Dark/images /Users/mukulingle/Downloads/Plaeto_Dark/Plaeto_Dark.usdz 
+ssh mukul@34.66.1.246
+scp mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/2f23d24c-d.zip /Users/mukulingle/Downloads/Sandesh_portrait 
+ssh mukul@34.66.1.246
+scp /Users/mukulingle/Downloads/Plaeto_Dark/plaeto_dark.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting
+ssh mukul@34.66.1.246
+scp /Users/mukulingle/Downloads/Plaeto_Dark/plaeto_dark.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting
+ssh mukul@34.66.1.246
+python extract_frames_200.py /Users/mukulingle/Downloads/sinthan_top_1/IMG_3940.MOV 
+scp /Users/mukulingle/Downloads/sinthan_top_1/sinthan_top_1.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting
+ssh mukul@34.66.1.246
+scp -r mukul@34.66.1.246:/home/mukul/gaussian-splatting/output /Users/mukulingle/Downloads/vm-gauss-output 
+ls
+conda activate metashop
+ls
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+wget -O video.mov https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-xr4w3m-1704956727389
+ wget -O video.mov https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-xr4w3m-1704956727389
+wget
+wget  https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-xr4w3m-1704956727389
+wget https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-xr4w3m-1704956727389
+wget 'https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-xr4w3m-1704956727389'
+python check_not_processed.py
+mkdir production_id_4614907(1440p).mp4-xr4w3m-1704956727389
+mkdir 'production_id_4614907(1440p).mp4-xr4w3m-1704956727389'
+mkdir 'production_id_4614907(1440p).mp4-xr4w3m-1704956727389'
+python
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+python check_not_processed.py
+conda activate metashop
+python check_not_processed.py
+cd tests
+ls
+bash run_seg_mesh_variable_0.sh IMG_8806.MOV-nit7qh-1705404870423 "https://storage.googleapis.com/metashop_demo_models/IMG_8806.MOV-nit7qh-1705404870423.png"
+bash run_seg_mesh_variable_0.sh IMG_8807.MOV-k41odr-1705404935801 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8807.MOV-k41odr-1705404935801?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705408559&Signature=pf8WHXYqBnAIol%2FqPm4bmV2iAHRT3FHGv8Iu8YZ374UY5rvCZxxBIFPAYJf1Hl%2F%2BwN97etrvrNa0pzjUckOiuFxfD9XB98VlU55t9%2BXEZjPtZJZbHOCm%2F%2B0YgXRAl1MdJWqIEHxpRCT9NIgLk%2FDkm7WR4X7lo4tMd55vnRn9HAcuBOOaG4PXtz08%2FDxqSWQI64tM9RRrDFPWy%2FFNK%2B217RXdwJsZK7XCWy14tk5uleWlnwvQvg90skxEMSDYgTL%2F5uppBdMUaL4vG9pk90R4ACAM6JZA%2B45cUGzVJReSNN2EPPcdeX1bFMs%2FHfvEYWsJE%2BhUncXXXa1oT3oBYsf8Ow%3D%3D"
+ bash run_seg_mesh_variable_0.sh IMG_8807.MOV-k41odr-1705404935801 "https://storage.googleapis.com/metashop_demo_models/IMG_8807.MOV-k41odr-1705404935801.png"
+ bash run_seg_mesh_variable_0.sh IMG_8810 2.MOV-nji8on-1705409177135 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810%202.MOV-nji8on-1705409177135?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412788&Signature=H1ylaeqz6aLss9JmtqGUE05M%2BNZ5nwT52mzDPOT96mODeDtR29t4RwR9fwI327AOeCSKA%2BkeREQbKxC5aIfxu2%2B%2BqgVzcj9Vu3azpZNTB%2BPTZMw9GVsg3kGqi9mG3b1ADH4r4HYZcR%2FOh5kZXHLdOr4B8WnlKf13ZP%2Bo7JSbbjCUc%2F09A%2BW2uPwSmrXeLY0lxXe%2BP022Gxss233hrTS950hGXdqtVKEnArM4ZdZQO4RFk%2FqP5r6yJ%2Bhev4X4CQJTQbIBUwmUAuasUrYQa33UXwUhUYFpgHw2g5el4kAwEAPNjs7XU2cVWXSYw1zwlfFzTTL2P1%2F8FoCI0xs3295alA%3D%3D"
+bash run_seg_mesh_variable_0.sh 'IMG_8810 2.MOV-nji8on-1705409177135' "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810%202.MOV-nji8on-1705409177135?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412788&Signature=H1ylaeqz6aLss9JmtqGUE05M%2BNZ5nwT52mzDPOT96mODeDtR29t4RwR9fwI327AOeCSKA%2BkeREQbKxC5aIfxu2%2B%2BqgVzcj9Vu3azpZNTB%2BPTZMw9GVsg3kGqi9mG3b1ADH4r4HYZcR%2FOh5kZXHLdOr4B8WnlKf13ZP%2Bo7JSbbjCUc%2F09A%2BW2uPwSmrXeLY0lxXe%2BP022Gxss233hrTS950hGXdqtVKEnArM4ZdZQO4RFk%2FqP5r6yJ%2Bhev4X4CQJTQbIBUwmUAuasUrYQa33UXwUhUYFpgHw2g5el4kAwEAPNjs7XU2cVWXSYw1zwlfFzTTL2P1%2F8FoCI0xs3295alA%3D%3D"
+bash run_seg_mesh_variable_0.sh 'IMG_8810 2.MOV-nji8on-1705409177135' "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810%202.MOV-nji8on-1705409177135?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412788&Signature=H1ylaeqz6aLss9JmtqGUE05M%2BNZ5nwT52mzDPOT96mODeDtR29t4RwR9fwI327AOeCSKA%2BkeREQbKxC5aIfxu2%2B%2BqgVzcj9Vu3azpZNTB%2BPTZMw9GVsg3kGqi9mG3b1ADH4r4HYZcR%2FOh5kZXHLdOr4B8WnlKf13ZP%2Bo7JSbbjCUc%2F09A%2BW2uPwSmrXeLY0lxXe%2BP022Gxss233hrTS950hGXdqtVKEnArM4ZdZQO4RFk%2FqP5r6yJ%2Bhev4X4CQJTQbIBUwmUAuasUrYQa33UXwUhUYFpgHw2g5el4kAwEAPNjs7XU2cVWXSYw1zwlfFzTTL2P1%2F8FoCI0xs3295alA%3D%3D"
+wget video.mov "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810%202.MOV-nji8on-1705409177135?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412788&Signature=H1ylaeqz6aLss9JmtqGUE05M%2BNZ5nwT52mzDPOT96mODeDtR29t4RwR9fwI327AOeCSKA%2BkeREQbKxC5aIfxu2%2B%2BqgVzcj9Vu3azpZNTB%2BPTZMw9GVsg3kGqi9mG3b1ADH4r4HYZcR%2FOh5kZXHLdOr4B8WnlKf13ZP%2Bo7JSbbjCUc%2F09A%2BW2uPwSmrXeLY0lxXe%2BP022Gxss233hrTS950hGXdqtVKEnArM4ZdZQO4RFk%2FqP5r6yJ%2Bhev4X4CQJTQbIBUwmUAuasUrYQa33UXwUhUYFpgHw2g5el4kAwEAPNjs7XU2cVWXSYw1zwlfFzTTL2P1%2F8FoCI0xs3295alA%3D%3D"
+ssh mukul@35.184.50.26
+scp -r mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/56b8fece-b /Users/mukulingle/Downloads/sinthan_top_1/ 
+scp /Users/mukulingle/Downloads/tree/tree.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting/
+scp -r  mukul@34.66.1.246:/home/mukul/gaussian-splatting/output/d9ec40f5-6 /Users/mukulingle/Downloads/tree/
+conda activate metashop
+python extract_frames_200.py /Users/mukulingle/Downloads/tree/IMG_3981.MOV 
+ls
+ssh mukul@34.66.1.246
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh IMG_8810_2.MOV-nji8on-1705409177135 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810%202.MOV-nji8on-1705409177135?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412788&Signature=H1ylaeqz6aLss9JmtqGUE05M%2BNZ5nwT52mzDPOT96mODeDtR29t4RwR9fwI327AOeCSKA%2BkeREQbKxC5aIfxu2%2B%2BqgVzcj9Vu3azpZNTB%2BPTZMw9GVsg3kGqi9mG3b1ADH4r4HYZcR%2FOh5kZXHLdOr4B8WnlKf13ZP%2Bo7JSbbjCUc%2F09A%2BW2uPwSmrXeLY0lxXe%2BP022Gxss233hrTS950hGXdqtVKEnArM4ZdZQO4RFk%2FqP5r6yJ%2Bhev4X4CQJTQbIBUwmUAuasUrYQa33UXwUhUYFpgHw2g5el4kAwEAPNjs7XU2cVWXSYw1zwlfFzTTL2P1%2F8FoCI0xs3295alA%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8806.MOV-vt7x4d-1705472460392 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8806.MOV-vt7x4d-1705472460392"
+bash run_seg_mesh_variable_0.sh IMG_3829.mov-n3bamv-1705494465211 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3829.mov-n3bamv-1705494465211?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705498072&Signature=J5TgLrfV%2BJ2rX6%2BW1i7kkno5BjmNcDTAocPHpF9LHj8nulJcRxHzGPPxe%2Bp6sEihludbJi%2FCOnYoYFnzu9LpowFX2sVM82lnBt445SXL374uFLLbYxYp74gM0vHh8uteClITFujTtRainvkPSvQAPCzc0UFh%2BadyUcciQ%2B9yW4dfXxF07B%2BidCHAeoCpPWH0i4qYHsLlLUSGOa7e7rw2gqR8t7QQgi9f3qiNNh4PYoRUg9lf20luH5N%2B7UlcttBY847rBwqlWiSSLlTyODbx8J4ejCJaWH5wg9Tis6C3JY3LH6RXruPHkbnTDgnZ8Bw61eHRXRZsIPuX%2BlGwXRkH7Q%3D%3D"
+python extract_frames.py /Users/mukulingle/Downloads/office_chair/IMG_3956.MOV 
+python extract_frames_200.py /Users/mukulingle/Downloads/office_chair/IMG_3956.MOV 
+python extract_frames_200.py /Users/mukulingle/Downloads/office_chair/IMG_8812.MOV 
+python extract_frames_200.py /Users/mukulingle/Downloads/sinthan_top_mem/IMG_3912.mov 
+scp /Users/mukulingle/Downloads/sinthan_top_mem/sinthan_top_mem.zip mukul@35.202.138.78:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/sinthan_top_mem/sinthan_top_mem.zip mukul@35.202.138.78:/home/mukul/gaussian-splatting/
+scp -r mukul@35.202.138.78:/home/mukul/gaussian-splatting/output/d6ef4b0b-c /Users/mukulingle/Downloads/sinthan_top_mem/ 
+scp /Users/mukulingle/Public/tests/IMG_3983.MOV-u4nv5a-1705570857459/mukul_avatar.zip mukul@35.202.138.78:/home/mukul/gaussian-splatting
+scp -r mukul@35.202.138.78:/home/mukul/gaussian-splatting/output/f7a082d7-1/ /Users/mukulingle/Public/tests/IMG_3983.MOV-u4nv5a-1705570857459/mukul_avatar  
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/desee_art_links/shubhra/Grains.html
+https://storage.googleapis.com/metashop_demo_models/model-viewers/desee_art_links/shubhra/Scissors.html
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/desee_art_links/shubhra/Scissors.html
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/desee_art_links/shovin/sphere_sculpture/PBR%20-%20Metallic%20Roughness.html
+scp /Users/mukulingle/Downloads/vr_office_chair/vr_office_chair.zip mukul@35.202.138.78:/home/mukul/gaussian-splatting/
+scp /Users/mukulingle/Downloads/vr_office_chair/vr_office_chair.zip mukul@35.202.138.78:/home/mukul/gaussian-splatting/
+conda activate metashop
+ls
+cd Public/tests
+ls
+bash run_seg_mesh_variable_0.sh 'IMG_8807 2.MOV-dcjwsb-1705409153928' "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8807%202.MOV-dcjwsb-1705409153928?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412775&Signature=tafcZ2HU6dAVZyGnRSlvfQijdVDD1ohhf%2F1gkYNUnMM2u%2B1YOrxDBgCeAL9eScb%2BKN0SJ96qHx7J04hAqXwPCgynDOF3K2pXrE0ynn6lI8jzjmQ4kc4ytAIYkFh3Qd46xsjNGnGW%2F%2BqW6t84ANG495uMlmb9d8dAb8fltGt72KYFnSYjFo2KvLbfV9VFOzVfVm98BcpiKYhcCKG8sISc5uHqslR9sDt2daYIKtnslwkyuJCeCa8lzl6jhATddEXW8sfzK75MFjl3Ek7iHrGWvRB2oRZpa9BE8IQ4dudop8f9s2O8206WD3QfzljsQLPfBpoUPWwO1FqdBWQaU%2BYJDg%3D%3D"
+bash run_seg_mesh_variable_0.sh 'IMG_8807_2.MOV-dcjwsb-1705409153928' "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8807%202.MOV-dcjwsb-1705409153928?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412775&Signature=tafcZ2HU6dAVZyGnRSlvfQijdVDD1ohhf%2F1gkYNUnMM2u%2B1YOrxDBgCeAL9eScb%2BKN0SJ96qHx7J04hAqXwPCgynDOF3K2pXrE0ynn6lI8jzjmQ4kc4ytAIYkFh3Qd46xsjNGnGW%2F%2BqW6t84ANG495uMlmb9d8dAb8fltGt72KYFnSYjFo2KvLbfV9VFOzVfVm98BcpiKYhcCKG8sISc5uHqslR9sDt2daYIKtnslwkyuJCeCa8lzl6jhATddEXW8sfzK75MFjl3Ek7iHrGWvRB2oRZpa9BE8IQ4dudop8f9s2O8206WD3QfzljsQLPfBpoUPWwO1FqdBWQaU%2BYJDg%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8807.MOV-dsck4i-1705409904071 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8807.MOV-dsck4i-1705409904071?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705413513&Signature=jZyrMdUbnwIkky8qc11vXfL8LEFgRWL4BxUGvCqXUHRmPbdlsLlaJOZYno4T0m8BFBrOuYDhDQxT%2Fp7ltsVdtFT9M02fGYrla7glktM3V6hKm39fCTS0ujDmjqNQNx6glLnDkPehTswdJmKQstQmtOk59rR1YUAoEEYDj2NJUllJ1SSxsWSKuozds2jOyXS0CPQpO2Dr6%2Bsuzc8WkGyLUotLYXfk6v4AlQr3IMzVtT%2BUDul52eqGEugiQS8xruanVYWiA6AbRaXglofLPQRWyjNL37ijUQR0o0zk0%2BHMT9HER%2F46kH7UG45jpDhnGPfMbYI7K4TSIdK37riKRm%2BdWQ%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8810.MOV-abx0ka-1705414700352 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810.MOV-abx0ka-1705414700352?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705418312&Signature=QqCfFFDy0CfKV2uMtQ%2FJjEeRu5dcHNUtDgBfQLRRjsPCtgk5S%2BbS%2BYxaV7xf63ZKV7b%2Fv9ZHbxNa%2FSCGc%2FkNKRCdxYafBMbXkLzxPis4Cvy9nNeFEiARdrIwpz5lF2t3jo3Jw8smjXV%2FvOiNl7P1lTcfGTQPT%2BZggSBwwC0Oym3uf7oJEh2GzDftNFCiYV68SMJqkcGo9gp4hapxPEEV6ZxpUxnv9%2FDOu2NcndQkTwMkH4R5zodRQRcXEuaQq%2FKsC639qmOE6qMrovc6lFmXt5W%2B6D8iEeWEgof%2FMhPck3sKyWX8AeTqcGHuIU2qspVEW7%2FrGP8UkJRnudBkXJTTGQ%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8806.MOV-pn60we-1705416104709 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8806.MOV-pn60we-1705416104709?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705419725&Signature=U47Xz%2FKY1w0pfrQurhpdEdjB58NAFxtgN%2BL0CrtrCg43IhehuNlvyH2FMuZ5APU3bDu1yUR1ocZffbNYANInRU1wE0CiInhecuw%2FFASoEvr3SHqEsmBxhokrmibun26NMZyE4PKwZrfka2tHSx0WLHNqaS2W3PxaSaDb5utZcd5GCV3T3XtjfVH7V5P%2BTOkn1O2dKsnlJUBajOdNDFn8Z%2FTJ%2FEQeTIthbVSBzM4tOmO54HP9MM0Uflo7ZVCIFuwILtCYb9aYW0%2B1RZuDb3cRA9epaFgY7WqbzzJWgVlzBZy54fN9xIm3JDeBBZdWsg5y82AR%2FIsyx9xDxXLHdEwstQ%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8806.MOV-pn60we-1705416104709 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8806.MOV-pn60we-1705416104709"
+scp /Users/mukulingle/Downloads/office_chair/office_chair.zip  mukul@34.66.1.246:/home/mukul/gaussian-splatting/
+ssh mukul@34.66.1.246
+ssh mukul@34.66.1.246
+scp /Users/mukulingle/Downloads/office_chair/office_chair.zip  mukul@34.66.1.246:/home/mukul/gaussian-splatting/
+ssh mukul@34.66.1.246
+ssh mukul@34.68.222.13
+ssh mukul@34.68.222.13
+ssh mukul@35.202.138.78
+ssh mukul@35.202.138.78
+ssh mukul@35.202.138.78
+ssh mukul@35.202.138.78
+scp -r mukul@35.202.138.78:/home/mukul/gaussian-splattning/output/42450dde-7 /Users/mukulingle/Downloads/vr_office_chair/vr_office_chair 
+scp -r mukul@35.202.138.78:/home/mukul/gaussian-splatting/output/42450dde-7 /Users/mukulingle/Downloads/vr_office_chair/vr_office_chair 
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh IMG_8806_2.MOV-dz2aym-1705409163822 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8806%202.MOV-dz2aym-1705409163822?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705412785&Signature=M5hbXig0HkL8om3ChM%2B9pQOpL9i37bR%2Fr1MMJJUq1DntkzojRt9HDnnUHrcju0d1hqzla4vShl1hDb9oVKUMOy26DtYxcEnttSNfWiV7ilpTylmKnUPk3XotFDCpIMuocDRB%2BLlG8EFitanIXjgLQmoryQ9Be9S0I6YjAZKWDxS6Q%2FDjj00%2BZWyL4J%2FrOnU0jcTnZH6jWrs%2FPn4aTQECWjF%2FI3W%2BmzcJo0s2qXG8aEXrV9OMkh7xuDchka4BZebzkrJUzy817U1VDf%2Fl%2BrAVn5DEj%2BJMrJtGfTFWfY3gYrJN5TWYWPdbXnQppDj%2FVI7fOexWQVyK7b9SAt%2Fd56cjBw%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8810.MOV-xm0w6m-1705409920432 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8810.MOV-xm0w6m-1705409920432?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705413532&Signature=JaE8Pshxw5TKMt40oC%2FmE2OoWl%2F1GJZDFNI09NjJSgbCEGmjE953PQbyd%2FYqL4kD6Y425m6ZBy6R99OW8GtPqQajc0r9aVJOkYrm55m%2FohU9IqCqYYw3UhVggYSZGw7WYkspLRGJfO2G%2BpCFLV8hkSSKn0U3CyhMlhcgW9xu8qsTldvY4VwT%2FvKbKZmCQG7rWP2SFeLHpDUePmf9wXvqLU7Ep%2B%2F4X4Hb5RlpTMK3%2BeRaIdek%2FbYmcITTEmTnII%2BmetgQC9Zu8Aa%2FTFgESPzhYUJSuVvEmofOQv5cGodgEpG6tEU17wMFq74%2BSpFsyq3NiqyW1WIAGzsAb0od4E7N5g%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8807.MOV-dnd58w-1705415254830 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8807.MOV-dnd58w-1705415254830?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705418864&Signature=PDo%2FwCCZHTqGecSjGC99%2F22sIbzvZFjwYyZ6PNPFTqfu%2BvbdVagNyJoZRrDu%2F8%2B2PLQZCMJE2eGSBZlVWWz8CPJCueE4WwK113Zhedvoqf7orPCoFKwDaTqbPArCzpCnjp5AN2E%2BD2mrQVq8PpxiV%2BFn3UApRt6v%2BjZfLnrXbICj6YEcLUMPfv%2FQjVElk2bvjSkN4i%2BJf22I%2BHQUaCtqPZu6Bby5%2F7600O2AG4ptgtW6NM4o972KjSnuX49rBwRTPT83QZaoVF66iOcHkKN2qo1RQz2Kqlo17q5cpyipZUdK1zuhoyJnuUGH6xdBVMhHsxgxRcGOfQNqmWpexask1w%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_8806.MOV-y3mlzs-1705416114800 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_8806.MOV-y3mlzs-1705416114800"
+ bash run_seg_mesh_variable_0.sh IMG_3581.MOV-zific4-1705466502207 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3581.MOV-zific4-1705466502207?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705470109&Signature=c2TiyNsqlZLd%2B2HdU02e%2FuaWf%2BmwGSIS9r9vQFQrFzv%2FhQRZQQbYSNRVHtGmVcwxrboq9XlpTb996Ctl5aMejIfJzJmGr9aZY5mN4Cq4xPiH5szul0e%2FkLVPbaT4myfNQtW%2FMlwW1e8NtGZ1oAOS%2BVsNFQELoa1HFaEiPZf4CNqVC5KNhqbw6QQUmu8X2ggxIJBEMPxukomvOCBhcfAmyUlgu%2BNeX%2FLDJIzYj9rzFnCDZamv6xnN2FWqmTofqbQw1In44h1wclFlhJ%2B1q4w7UgTh%2FNzgl4jsIAcNxs38mEmp1YguN%2FE0iGJv5KnOXDzRp1n%2F8GsXtwmEKilL%2Fj6RPw%3D%3D"
+bash run_seg_mesh_variable_0.sh IMG_3581.MOV-zific4-1705466502207 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3581.MOV-zific4-1705466502207"
+ bash run_seg_mesh_variable_0.sh IMG_3830.mov-jkftkc-1705494652487 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3830.mov-jkftkc-1705494652487?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705498258&Signature=OUmBA5sHssxwSgy2P3swGReqpq7u58InDE%2F0bv9yXhEWWWCkJFGv79MUWSCvCAY8ar9lQP4Maue%2FH45QEijzSD28EUsGnPHd0g2S6hm9ScVdbTsmPP9iI0W5GFdTtaatQHoJ9dpWMoeKBIQKlCW83uV5kwsLtZMTQyNOBZ%2Fiw1GCTFkrQhWSF0i3NOd9g04%2FFuJ5lJ68lt6yENYP8OPu%2Baux3V2ijCcHqnZpqxgU5joxch9bSmRNkgZkdGnpufsmn01obZ3T3bLD%2BsuRmcffhEnyozDqDU6%2B7wM95U%2FJy7VrhIXk7jGob6z%2B8y5ekbWJFpJNKwtMuMXQqu3IyDU0%2BA%3D%3D"
+scp /Users/mukulingle/Downloads/vr_office_chair/vr_office_chair.zip mukul@34.66.1.246:/home/mukul/gaussian-splatting
+bash run_seg_mesh_variable_0.sh IMG_3581.MOV-c3bdnb-1705558490358 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3581.MOV-c3bdnb-1705558490358?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705562106&Signature=Z2VWU3%2BMKX8wJpk7EOnzPHvTgHmhD5IgEbq3cKO%2Fv6QhGyHym190xLmWBrAKps4xyvYd7bow5oNPV13GpBfYikY4RQOLHwztkwG%2BnA%2FL9lxOJOMgjZ7igxmiOq8JvwyqipzXfgLcO98TsW3VQUxCy6%2F45fOqsvuhIv7%2F6icJrHXOnosZVttEY3cXWjLnT1o76jLxrKvLke%2Fd1g2IQ6jr5LYRDsiqN9uPP2M2LuoYYyThtV%2FD12MEfzHivbDphPbTS5ef9DoZWbmG7HSoOSFttNTVehg5brBYP1mX8CgOuYT782MNVZtexYLIfNiA3khRtLXrO9S2UA9TTYQll66pGA%3D%3D"
+ bash run_seg_mesh_variable_0.sh IMG_3581.MOV-c3bdnb-1705558490358 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3581.MOV-c3bdnb-1705558490358"
+bash run_seg_mesh_variable_0.sh "IMG_3581 (1).mov-1ngw9e-1705569963541" "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3581%20(1).mov-1ngw9e-1705569963541"
+bash run_seg_mesh_variable_0.sh IMG_3983.MOV-u4nv5a-1705570857459 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_3983.MOV-u4nv5a-1705570857459?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705574464&Signature=KsIjnTdlN4IBFUE%2BSn%2BCKGmeLGt%2BpOrRXnavF6VVLFMjPvifFKHw8k%2B29Dem6hu4Uxro1B5iEftKPDOmuqIAIPVQ3fywWF0HfZxT8lUP7V%2BxseaUMMQ1Onep%2FgmZjU1Ud4CRKBKBVWjMxZJudZaoL5KuiW4gArP%2FsOQabD9kkGa1KjOVDhfvso%2BSCBHkvtoyc5nkM7c0gFpy9qNOktuTc0ovI3N8KS4XrTKarzmmlyg%2FcxFL%2FlF%2BcRRAEfghYlOZPGZfmYRFSHKI81ti4ZG9nJgihR7sQmSv3Q8Uln%2BqHdLJG4TW7Jw7NzHCgaBmuy863KRiwN9lvi817uQ8hjLRbQ%3D%3D"
+python extract_frames_200.py /Users/mukulingle/Public/tests/IMG_3983.MOV-u4nv5a-1705570857459/video.mov 
+cd Public/tests
+conda activate metashop
+python extract_frames.py /Users/mukulingle/Downloads/drive-download-20240101T105312Z-001/VID_20231207_123729/VID_20231207_123729.mp4 
+ssh mukul@35.202.138.78
+ssh mukul@35.202.138.78
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ Mat_/2/VID_20240125_124130.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ Mat_/2/images /Users/mukulingle/Downloads/Artment\ Mat_/2/Artment_Mat.usdz
+python extract_frames.py /Users/mukulingle/Downloads/mukul_avatar/IMG_4204.MOV  
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/mukul_avatar/images /Users/mukulingle/Downloads/mukul_avatar/mukul_avatar.usdz
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/mukul_avatar/images /Users/mukulingle/Downloads/mukul_avatar/mukul_avatar.usdz -d full
+cd Public/tests
+conda activate metashop
+ls
+bash run_seg_mesh_varaiable_0.sh Khadinaturals.MOV-9qf7rm-1705992893747 "https://storage.googleapis.com/metashoptests.appspot.com/Khadinaturals.MOV-9qf7rm-1705992893747?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705996504&Signature=DYEmMdW60y36a240v9n8zR4PY46V4bQQDVfxSXZ7jBzPMXgHC1uyKheXr7xNLXp5F30RM6a1oudl3BSsoc95UrgPkwUVUWs%2BJjqppGucirIVWj2MEJ7A8nVLtOgH66ERRM6K2PtQ88n%2Fq3vxcfQ%2Bs%2B%2Fuqrx8WvPG3mmjx0hv10ugj4PaDosOIgrW%2B8b29pCjB9gan1Yv%2Bd0Qbr2mAjPnao7ChJWlinP%2BdL3%2BRzITECziKI9GhZxjXJ9tWm1sPE%2FnEExIatjxpdnIK%2FBNFNIyfPZlG%2BFD30LN8FfZF1z%2BsAKT4SaWAvJDgAk%2BZpYeHGIjaShlG8W70Y8ancZE0A6pPA%3D%3D"
+ bash run_seg_mesh_variable_0.sh Khadinaturals.MOV-9qf7rm-1705992893747 "https://storage.googleapis.com/metashoptests.appspot.com/Khadinaturals.MOV-9qf7rm-1705992893747?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705996504&Signature=DYEmMdW60y36a240v9n8zR4PY46V4bQQDVfxSXZ7jBzPMXgHC1uyKheXr7xNLXp5F30RM6a1oudl3BSsoc95UrgPkwUVUWs%2BJjqppGucirIVWj2MEJ7A8nVLtOgH66ERRM6K2PtQ88n%2Fq3vxcfQ%2Bs%2B%2Fuqrx8WvPG3mmjx0hv10ugj4PaDosOIgrW%2B8b29pCjB9gan1Yv%2Bd0Qbr2mAjPnao7ChJWlinP%2BdL3%2BRzITECziKI9GhZxjXJ9tWm1sPE%2FnEExIatjxpdnIK%2FBNFNIyfPZlG%2BFD30LN8FfZF1z%2BsAKT4SaWAvJDgAk%2BZpYeHGIjaShlG8W70Y8ancZE0A6pPA%3D%3D"
+bash run_seg_mesh_variable_0.sh Khadinaturals.MOV-9qf7rm-1705992893747 "https://storage.googleapis.com/metashoptests.appspot.com/Khadinaturals.MOV-9qf7rm-1705992893747?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1705996504&Signature=DYEmMdW60y36a240v9n8zR4PY46V4bQQDVfxSXZ7jBzPMXgHC1uyKheXr7xNLXp5F30RM6a1oudl3BSsoc95UrgPkwUVUWs%2BJjqppGucirIVWj2MEJ7A8nVLtOgH66ERRM6K2PtQ88n%2Fq3vxcfQ%2Bs%2B%2Fuqrx8WvPG3mmjx0hv10ugj4PaDosOIgrW%2B8b29pCjB9gan1Yv%2Bd0Qbr2mAjPnao7ChJWlinP%2BdL3%2BRzITECziKI9GhZxjXJ9tWm1sPE%2FnEExIatjxpdnIK%2FBNFNIyfPZlG%2BFD30LN8FfZF1z%2BsAKT4SaWAvJDgAk%2BZpYeHGIjaShlG8W70Y8ancZE0A6pPA%3D%3D"
+bash run_seg_mesh_variable_0.sh Khadinaturals.MOV-9qf7rm-1705992893747 "https://storage.googleapis.com/metashoptests.appspot.com/Khadinaturals.MOV-9qf7rm-1705992893747"
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ Mat/VID_20240123_172821\(1\).mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ Mat/images /Users/mukulingle/Downloads/Artment\ Mat 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ Mat/images /Users/mukulingle/Downloads/Artment\ Mat/ArtmentMat.usdz 
+python extract_frames.py /Users/mukulingle/Downloads/Artment\ Mat_/VID_20240124_180030.mp4 
+time /Users/mukulingle/Library/Developer/Xcode/DerivedData/HelloPhotogrammetry-fdngyxpzjcnaeydhtjhrvkuzvlgl/Build/Products/Debug/HelloPhotogrammetry /Users/mukulingle/Downloads/Artment\ Mat_/images /Users/mukulingle/Downloads/Artment\ Mat_/Mat_.usdz
+ssh mukul@35.184.50.26
+cd /Users/mukulingle/Documents/MetaShop/deep_learning/metashop-web-app/MS/metashop-backend 
+ls
+ls
+git pull
+ls
+conda activate metashop
+docker buildx build --platform linux/amd64 -t  ms-api:v33 --no-cache .
+docker buildx build --platform linux/amd64 -t  ms-api:v33 --no-cache .
+ls
+docker image tag ms-api:v33 mukul9/ms-api:v33
+docker push mukul9/ms-api:v33
+cd Public/tests
+conda activate metashop
+ls
+bash run_seg_mesh_variable_0.sh AL_Ukelele.mov-2s5szg-1707063936500 "https://storage.googleapis.com/metashoptests.appspot.com/AL_Ukelele.mov-2s5szg-1707063936500"
+ bash run_seg_mesh_variable_0.sh IMG_1759.mov-vb0vu8-1707192565182 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_1759.mov-vb0vu8-1707192565182?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1707196171&Signature=Iik9lcxk3qOYXVFWO3u9Y%2Buog91zuiYewt1NHmPYPuu3%2B25axb8Q0pjrIojpfuHbM4%2FlpG1Y1ejEr4ibqEf05ZUoN5vBaAgxozlaMsMzKrtwgUnnt7vW8ANpX38xN%2BTZc56pqP2hPuzDyI3spfLXuHZ7kn%2BsUzHuAiq3THZfGmeCefNU2p9RSZv7hsIjDcervIcYdv%2FEAp1fHl9pMOaS91CIdxbnW5GoDOpPNyprwyFXCXJaJGlDttuUpwVfzSsLv%2F3RTGZ7vmVGUq2XCUafjEpCttnO%2B9%2F8%2B8Qjfmuj3uKoP14PS7XFKq5MIhaZukq806LVKYR5tE%2BUc%2FSknG74XA%3D%3D"
+ bash run_seg_mesh_variable_0.sh IMG_1759.mov-vb0vu8-1707192565182 "https://storage.googleapis.com/metashoptests.appspot.com/IMG_1759.mov-vb0vu8-1707192565182?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1707196171&Signature=Iik9lcxk3qOYXVFWO3u9Y%2Buog91zuiYewt1NHmPYPuu3%2B25axb8Q0pjrIojpfuHbM4%2FlpG1Y1ejEr4ibqEf05ZUoN5vBaAgxozlaMsMzKrtwgUnnt7vW8ANpX38xN%2BTZc56pqP2hPuzDyI3spfLXuHZ7kn%2BsUzHuAiq3THZfGmeCefNU2p9RSZv7hsIjDcervIcYdv%2FEAp1fHl9pMOaS91CIdxbnW5GoDOpPNyprwyFXCXJaJGlDttuUpwVfzSsLv%2F3RTGZ7vmVGUq2XCUafjEpCttnO%2B9%2F8%2B8Qjfmuj3uKoP14PS7XFKq5MIhaZukq806LVKYR5tE%2BUc%2FSknG74XA%3D%3D"
+python /Users/mukulingle/Downloads/pdfc-master/pdf_compressor.py -o MetaShop-Final-Pitch-1.pdf /Users/mukulingle/Downloads/pdfc-master/MetaShop\ -\ Final\ Pitch-1.pdf -c 1
+ssh metashop@192.168.1.12
+ssh metashop@192.168.1.12
+cd Public
+cd tests
+ls
+conda activate metashop
+bash run_seg_mesh_variable_0.sh AHABHA.MOV-4su6ya-1707462829374 ""https://storage.googleapis.com/metashoptests.appspot.com/AHABHA.MOV-4su6ya-1707462829374
+bash run_seg_mesh_variable_0.sh AHABHA.MOV-4su6ya-1707462829374 "https://storage.googleapis.com/metashoptests.appspot.com/AHABHA.MOV-4su6ya-1707462829374"
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh AHABHA.MOV-4su6ya-1707462829374 "https://storage.googleapis.com/metashoptests.appspot.com/AHABHA.MOV-4su6ya-1707462829374"
+bash run_seg_mesh_variable_0.sh Dadamug2.MOV-nbct93-1707462858407 "https://storage.googleapis.com/metashoptests.appspot.com/Dadamug2.MOV-nbct93-1707462858407"
+bash run_seg_mesh_variable_0.sh chopper.MOV-zmdktg-1707462960574 "https://storage.googleapis.com/metashoptests.appspot.com/chopper.MOV-zmdktg-1707462960574"
+bash run_seg_mesh_variable_0.sh Captainamerica.MOV-ug6829-1707465048905 "https://storage.googleapis.com/metashoptests.appspot.com/Captainamerica.MOV-ug6829-1707465048905"
+bash run_seg_mesh_variable_0.sh vrushabhbike1.MOV-r8t7fq-1707465163537 "https://storage.googleapis.com/metashoptests.appspot.com/vrushabhbike1.MOV-r8t7fq-1707465163537"
+bash run_seg_mesh_variable_0.sh production_id_4614907(1440p).mp4-nx3313-1707475142868 "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907%281440p%29.mp4-nx3313-1707475142868?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1707478744&Signature=BXfl0F3BQG4O6drXla85oDAwxXRWiN3WkWj%2F667YXnZKtjmkD617cU4R52ogEUvDqOZTWdigolaZad1X%2BksSyhpDp5jZUCiqT8xIZKy0QdoL4urYF0diS7zAETIhmgMpQya%2BIk45kW3Iw0qmQKg%2BHTsw2oEEJc9wjL1MvuWuFZkX%2BzV24LC9lvc60zXFjzE64nHSJTUYLq7SUKySAF05yTxTNTqURxR99cLiZOcWZz5R9pF2q9hvKRj84XJMCR0iKjzs5%2FDgF4kCvOqoShrRPhJPh89Rld3%2FS%2FCsgTtX6H1%2F11efsgazllNCgsClEUbd3pJyh888oxlzduJXp8SgGg%3D%3D"
+bash run_seg_mesh_variable_0.sh graphicsbox.MOV-8gsfu2-1707475738076 "https://storage.googleapis.com/metashoptests.appspot.com/graphicsbox.MOV-8gsfu2-1707475738076?GoogleAccessId=517493403581-compute%40developer.gserviceaccount.com&Expires=1707479348&Signature=g7MoIsASO23BbyQwdM4kaQEkjKVQPq9PTBSDX19D6%2FTpe0LmWt3S451YhKaYLE%2Bt3N7NtzCGQwCLVs%2B9GGu7FB0j8Ockpg8PLSE9nQucMbUyk%2FwoviKBCrDv4iEtsfFhAXyoi%2FwtpwpjZi4SITaG5HSOjLDC1Iwj4hSs%2F6e2wdZaqXeXa22wyCVD1YFkILBIrwokQ3c%2BirmVbCCVqc5g6vNNvzHGuk6ct9L8eE%2Ft3aGrnxnBkIZj9vnneNiW8ddeK0VggVqF21Dz3n08zCMTc5zuhXIfZD1FMOXDfK05pMNJoIMqzKWWHHPW6GmV%2FjWZRK%2Fim6gqGZg3bnPsm2lNRw%3D%3D"
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh Captainamerica.MOV-ncsbyy-1707462941391 "https://storage.googleapis.com/metashoptests.appspot.com/Captainamerica.MOV-ncsbyy-1707462941391"
+bash run_seg_mesh_variable_0.sh Minisoperfume.MOV-xourtv-1707463019912 "https://storage.googleapis.com/metashoptests.appspot.com/Minisoperfume.MOV-xourtv-1707463019912"
+bash run_seg_mesh_variable_0.sh lightlamp.MOV-qquqvk-1707465138926 "https://storage.googleapis.com/metashoptests.appspot.com/lightlamp.MOV-qquqvk-1707465138926"
+bash run_seg_mesh_variable_0.sh 2
+bash run_seg_mesh_variable_0.sh 4
+ssh metashop@192.168.1.12
+cd Dowloads/splats
+cd Downloads/splats
+ls
+cd splats-viewer
+ls
+git pull
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh Captainamerica.MOV-vkcwna-1707462947867 "https://storage.googleapis.com/metashoptests.appspot.com/Captainamerica.MOV-vkcwna-1707462947867"
+bash run_seg_mesh_variable_0.sh lightlamp.MOV-rrc7sd-1707463830935 "https://storage.googleapis.com/metashoptests.appspot.com/lightlamp.MOV-rrc7sd-1707463830935"
+bash run_seg_mesh_variable_0.sh graphicsbox.MOV-zzc4ak-1707465148946 "https://storage.googleapis.com/metashoptests.appspot.com/graphicsbox.MOV-zzc4ak-1707465148946"
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 1
+bash run_seg_mesh_variable_0.sh 3
+cd Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh aqualens2.MOV-06u2h2-1707462868275 "https://storage.googleapis.com/metashoptests.appspot.com/aqualens2.MOV-06u2h2-1707462868275"
+bash run_seg_mesh_variable_0.sh Minisoperfume.MOV-457jpa-1707462985301 "https://storage.googleapis.com/metashoptests.appspot.com/Minisoperfume.MOV-457jpa-1707462985301"
+bash run_seg_mesh_variable_0.sh chopper2blade.MOV-tt7dlp-1707465128947 "https://storage.googleapis.com/metashoptests.appspot.com/chopper2blade.MOV-tt7dlp-1707465128947"
+bash run_seg_mesh_variable_0.sh scentedcandle_2.MOV-hqb1m9-1707465180936 "https://storage.googleapis.com/metashoptests.appspot.com/scentedcandle_2.MOV-hqb1m9-1707465180936"
+conda activate metashop
+python pdf_compressor.py /Volumes/Leno/Mac\ Downloads/Downloads/pdfc-master/MetaShop\ Product\ Deck\ -\ Vehicle.pdf /Volumes/Leno/Mac\ Downloads/Downloads/pdfc-master/MetaShop\ Product\ Deck\ -\ Vehicle_.pdf -c 1  
+python pdf_compressor.py /Volumes/Leno/Mac\ Downloads/Downloads/pdfc-master/MetaShop\ Product\ Deck\ -\ Vehicle.pdf -o /Volumes/Leno/Mac\ Downloads/Downloads/pdfc-master/MetaShop\ Product\ Deck\ -\ Vehicle_.pdf -c 1  
+cd Downloads
+wget https://storage.googleapis.com/metashop_demo_models/model-viewers/shehri_zameen.html
+cd ../Public/tests
+conda activate metashop
+bash run_seg_mesh_variable_0.sh production_id_4614907(1440p).mp4-98n54o "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-98n54o-1708067842021"
+bash run_seg_mesh_variable_0.sh production_id_4614907(1440p).mp4-98n54o-1708067842021 "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-98n54o-1708067842021"
+bash run_seg_mesh_variable_0.sh production_id_4614907(1440p).mp4-98n54o-1708067842021 "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-98n54o-1708067842021"
+bash run_seg_mesh_variable_0.sh production_id_4614907(1440p).mp4-98n54o-1708067842021 "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-98n54o-1708067842021"
+bash run_seg_mesh_variable_0.sh "production_id_4614907(1440p).mp4-98n54o-1708067842021" "https://storage.googleapis.com/metashoptests.appspot.com/production_id_4614907(1440p).mp4-98n54o-1708067842021"
+cd ../
+ls
+cd splats-viewer
